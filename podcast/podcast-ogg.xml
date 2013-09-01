@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  >
+
+  <channel>
+    <title>The Order of Týr Podcast (Ogg Edition)</title>
+    <atom:link href="http://videogamemetal.com/feed/ogg-podcast" rel="self" type="application/rss+xml" />
+    <link>http://orderoftyr.com/ogg-podcast</link>
+    <description>This is the edition of The Order of Týr Podcast which is delivered in Ogg Vorbis format.</description>
+    <lastBuildDate>Fri, 05 Jul 2013 15:07:34 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://wordpress.org/?v=3.5.2</generator>
+    <itunes:summary></itunes:summary>
+    <itunes:author>The Order of Týr Podcast (Ogg Edition)</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.orderoftyr.com/wp-content/uploads/powerpress/Flames_of_Destiny_Cover_600x600.png" />
+    <copyright>The Order of Týr Podcast is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <image>
+      <title>The Order of Týr Podcast (Ogg Edition)</title>
+      <url>http://videogamemetal.com/wp-content/uploads/powerpress/tra-cover_144x144.png</url>
+      <link>http://orderoftyr.com/ogg-podcast</link>
+    </image>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games" />
+    </itunes:category>
+    <itunes:category text="Music" />
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Other Games" />
+    </itunes:category>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <item>
+      <title>Podcast #044 &#8211; Let&#8217;s Talk About Some Vidya Gamez</title>
+      <link>http://videogamemetal.com/podcast-044-lets-talk-about-some-vidya-gamez-1525</link>
+      <comments>http://videogamemetal.com/podcast-044-lets-talk-about-some-vidya-gamez-1525#comments</comments>
+      <pubDate>Fri, 19 Oct 2012 03:52:29 +0000</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://videogamemetal.com/?p=1525</guid>
+      <description><![CDATA[&#160; In this week&#8217;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2. Also, it is made abundantly clear that Order of Týr is, in fact, on the [...]]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>In this week&#8217;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2.  Also, it is made abundantly clear that Order of Týr is, in fact, on the internet.</p>
+        <p><br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-044-lets-talk-about-some-vidya-gamez-1525/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2012/ogg/ootpc_e044_20121016.ogg" length="33255893" type="video/ogg" />
+      <itunes:keywords>Borderlands 2, Retro City Rampage, Resident Evil 6, Video Games, Chiptunes, metal</itunes:keywords>
+      <itunes:subtitle>  - In this week&#039;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2.  Also,</itunes:subtitle>
+      <itunes:summary> 
+
+        In this week&#039;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2.  Also, it is made abundantly clear that Order of Týr is, in fact, on the internet.
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Podcast #043 &#8211; The OoTPC is B-A-C-K</title>
+      <link>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504</link>
+      <comments>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504#comments</comments>
+      <pubDate>Fri, 05 Oct 2012 05:20:16 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://videogamemetal.com/?p=1504</guid>
+      <description><![CDATA[&#160; We talk about things that happened&#8230;because, you know&#8230;things happened&#8230;and my mic craps out when I get excited, but the OoT Podcast is back!!!! Music: Machinae Supremacy - Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>We talk about things that happened&#8230;because, you know&#8230;things happened&#8230;and my mic craps out when I get excited, but the OoT Podcast is back!!!!</p>
+        <p><br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2012/ogg/ootpc_e043_20121002.ogg" length="19511451" type="video/ogg" />
+      <itunes:subtitle>  - We talk about things that happened...because, you know...things happened...and my mic craps out when I get excited, but the OoT Podcast is back!!!! - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary> 
+
+        We talk about things that happened...because, you know...things happened...and my mic craps out when I get excited, but the OoT Podcast is back!!!!
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>The Order of Týr Podcast (Ogg Edition)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24:40</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #042 &#8211; Sonic Generations and Catherine Spoiler Extravaganza</title>
+      <link>http://videogamemetal.com/podcast-042-sonic-generations-and-catherine-spoiler-extravaganza-1114</link>
+      <comments>http://videogamemetal.com/podcast-042-sonic-generations-and-catherine-spoiler-extravaganza-1114#comments</comments>
+      <pubDate>Sat, 19 Nov 2011 21:39:04 +0000</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=1114</guid>
+      <description><![CDATA[&#160; Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#8217;s upcoming game, Lollipop Chainsaw.  Oh and apparently Mike still needs to play Bayonetta. Music: Machinae Supremacy - Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#8217;s upcoming game, Lollipop Chainsaw.  Oh and apparently Mike still needs to play Bayonetta.<br />
+          <br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-042-sonic-generations-and-catherine-spoiler-extravaganza-1114/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ogg/ootpc_e042_20111117.ogg" length="29080832" type="video/ogg" />
+      <itunes:keywords>Sonic The Hedgehog, Catherine, Katherine, Order of Týr, Bayonetta, Lollipop Chainsaw, Video Games</itunes:keywords>
+      <itunes:subtitle>  - Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#039;s u...</itunes:subtitle>
+      <itunes:summary> 
+
+        Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#039;s upcoming game, Lollipop Chainsaw.  Oh and apparently Mike still needs to play Bayonetta.
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>41:35</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #041 &#8211; Fantasy/Comic Con, Online Passes, What we&#8217;re playing/watching</title>
+      <link>http://videogamemetal.com/podcast-041-fantasycomic-con-online-passes-what-were-playingwatching-1043</link>
+      <comments>http://videogamemetal.com/podcast-041-fantasycomic-con-online-passes-what-were-playingwatching-1043#comments</comments>
+      <pubDate>Thu, 27 Oct 2011 12:29:26 +0000</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=1043</guid>
+      <description><![CDATA[&#160; Still on a massive high from the Memphis Comic &#38; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#8217;re playing/going to play, and what web series we&#8217;ve been into lately. Also, Online Passes rant, because VIDEO GAMES. Music: Machinae Supremacy &#8211; Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>Still on a massive high from the Memphis Comic &amp; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#8217;re playing/going to play, and what web series we&#8217;ve been into lately. Also, Online Passes rant, because VIDEO GAMES.<br />
+          <br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> &#8211; <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-041-fantasycomic-con-online-passes-what-were-playingwatching-1043/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ogg/ootpc_e041_20111020.ogg" length="47215806" type="video/ogg" />
+      <itunes:keywords>online passes, comic, fantasy, music, hawp, game chasers, gaming, comicon, convention</itunes:keywords>
+      <itunes:subtitle>  - Still on a massive high from the Memphis Comic &amp; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#039;re playing/going to play, and what web series we&#039;ve been into lately. Also, Online Passes rant, because VIDEO GAMES. </itunes:subtitle>
+      <itunes:summary> 
+
+        Still on a massive high from the Memphis Comic &amp; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#039;re playing/going to play, and what web series we&#039;ve been into lately. Also, Online Passes rant, because VIDEO GAMES.
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Podcast #040 &#8211; H4X, Rants, &amp; GAEMZ!</title>
+      <link>http://videogamemetal.com/podcast-040-h4x-rants-gaemz-840</link>
+      <comments>http://videogamemetal.com/podcast-040-h4x-rants-gaemz-840#comments</comments>
+      <pubDate>Sat, 23 Jul 2011 15:38:50 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=840</guid>
+      <description><![CDATA[They&#8217;re up in our .com h4x1n&#8217; our gearz of war. Also, we talk about a bunch of game demos, and I rant about Comcast, lulz. Music: Machinae Supremacy &#8211; Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>They&#8217;re up in our .com h4x1n&#8217; our gearz of war.  Also, we talk about a bunch of game demos, and I rant about Comcast, lulz.</p>
+
+
+        <p>Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> &#8211; <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-040-h4x-rants-gaemz-840/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ogg/ootpc_e040_20110722.ogg" length="19775959" type="video/ogg" />
+      <itunes:keywords>Catherine,Comcast,Machinae,Supremacy,Splosion,Terraria,Steam,hacked,Gears,War</itunes:keywords>
+      <itunes:subtitle>They&#039;re up in our .com h4x1n&#039; our gearz of war.  Also, we talk about a bunch of game demos, and I rant about Comcast, lulz. - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary>They&#039;re up in our .com h4x1n&#039; our gearz of war.  Also, we talk about a bunch of game demos, and I rant about Comcast, lulz.
+
+
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>42:33</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #039 &#8211; The Q&amp;A &#8211; Target: The Hammer K</title>
+      <link>http://videogamemetal.com/podcast-039-the-qa-target-the-hammer-k-833</link>
+      <comments>http://videogamemetal.com/podcast-039-the-qa-target-the-hammer-k-833#comments</comments>
+      <pubDate>Fri, 15 Jul 2011 03:40:30 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://66.228.45.244/www.orderoftyr.com/htdocs/?p=833</guid>
+      <description><![CDATA[Donna and I set up an inquisition of Mike to determine if he is or is not a robot. Music: Machinae Supremacy &#8211; Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>Donna and I set up an inquisition of Mike to determine if he is or is not a robot.</p>
+
+
+        <p>Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> &#8211; <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-039-the-qa-target-the-hammer-k-833/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ogg/ootpc_e039_20110705.ogg" length="32628862" type="video/ogg" />
+      <itunes:keywords>Jim,Sterling,Jimquisition,AVGN,James,Rolfe,Dream,Theater,drums</itunes:keywords>
+      <itunes:subtitle>Donna and I set up an inquisition of Mike to determine if he is or is not a robot. - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary>Donna and I set up an inquisition of Mike to determine if he is or is not a robot.
+
+
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>53:11</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #038 &#8211; OoT News, RE 3DS, and Transformers 3</title>
+      <link>http://videogamemetal.com/podcast-038-oot-news-re-3ds-and-transformers-3-809</link>
+      <comments>http://videogamemetal.com/podcast-038-oot-news-re-3ds-and-transformers-3-809#comments</comments>
+      <pubDate>Thu, 30 Jun 2011 16:39:21 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=809</guid>
+      <description><![CDATA[This week&#8217;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking. Music: FIGHT!! Version #1 from Grandia II]]></description>
+      <content:encoded><![CDATA[<p>This week&#8217;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking.</p>
+
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=JurH-KfEW68" target="_blank">FIGHT!! Version #1 from Grandia II</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-038-oot-news-re-3ds-and-transformers-3-809/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ogg/ootpc_e038_20110630.ogg" length="30537731" type="video/ogg" />
+      <itunes:keywords>order,of,tyr,sonic,generations,resident,evil,mercenaries,capcom,transformers</itunes:keywords>
+      <itunes:subtitle>This week&#039;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking. - Music: FIGHT!! Version #1 from Grandia II</itunes:subtitle>
+      <itunes:summary>This week&#039;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking.
+
+
+
+
+
+        Music: FIGHT!! Version #1 from Grandia II</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:52</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #037 &#8211; Duke Nukem Forever &amp; Game Industry Rants</title>
+      <link>http://videogamemetal.com/podcast-037-duke-nukem-forever-game-industry-rants-782</link>
+      <comments>http://videogamemetal.com/podcast-037-duke-nukem-forever-game-industry-rants-782#comments</comments>
+      <pubDate>Thu, 23 Jun 2011 04:59:08 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=782</guid>
+      <description><![CDATA[Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry. Music: she &#8211; chiptek (download the album for free under the CC By-NC-ND 3.0 license)]]></description>
+      <content:encoded><![CDATA[<p>Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry.</p>
+
+
+        <p>Music: <a href="http://shemusic.org" target="_blank">she &#8211; chiptek</a> (download the album for free under the CC By-NC-ND 3.0 license)</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-037-duke-nukem-forever-game-industry-rants-782/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ogg/ootpc_e037_20110622.ogg" length="42697470" type="video/ogg" />
+      <itunes:keywords>Duke,Nukem,Forever,Netflix,video,games,industry,Kinect,Rainwave,Gamebox 1.0,Epica,Nightwish</itunes:keywords>
+      <itunes:subtitle>Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry. - Music: she - chiptek (download the album for free un...</itunes:subtitle>
+      <itunes:summary>Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry.
+
+
+
+
+
+        Music: she - chiptek (download the album for free under the CC By-NC-ND 3.0 license)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:02:55</itunes:duration>
+    </item>
+  </channel>
+</rss>

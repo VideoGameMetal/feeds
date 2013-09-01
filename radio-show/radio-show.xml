@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  >
+
+  <channel>
+    <title>The Order of Týr Radio Show</title>
+    <atom:link href="http://videogamemetal.com/feed/radio" rel="self" type="application/rss+xml" />
+    <link>http://orderoftyr.com/category/radio</link>
+    <description>Take an auditory journey into the musical minds of Order of Týr and catch up with what we've been listening to!</description>
+    <lastBuildDate>Fri, 05 Jul 2013 15:07:34 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://wordpress.org/?v=3.5.2</generator>
+    <itunes:summary></itunes:summary>
+    <itunes:author>The Order of Týr Radio Show</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.orderoftyr.com/wp-content/uploads/powerpress/Flames_of_Destiny_Cover_600x600.png" />
+    <itunes:owner>
+      <itunes:name>The Order of Týr Radio Show</itunes:name>
+      <itunes:email>radio@orderoftyr.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>radio@orderoftyr.com (The Order of Týr Radio Show)</managingEditor>
+    <copyright>The Order of Týr Radio Show is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <image>
+      <title>The Order of Týr Radio Show</title>
+      <url>http://www.orderoftyr.com/wp-content/uploads/powerpress/Flames_of_Destiny_Cover_144x144.jpg</url>
+      <link>http://orderoftyr.com/category/radio</link>
+    </image>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games" />
+    </itunes:category>
+    <itunes:category text="Music" />
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Other Games" />
+    </itunes:category>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <item>
+      <title>Podcast #043 &#8211; The OoTPC is B-A-C-K</title>
+      <link>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504</link>
+      <comments>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504#comments</comments>
+      <pubDate>Fri, 05 Oct 2012 05:20:16 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://videogamemetal.com/?p=1504</guid>
+      <description><![CDATA[&#160; We talk about things that happened&#8230;because, you know&#8230;things happened&#8230;and my mic craps out when I get excited, but the OoT Podcast is back!!!! Music: Machinae Supremacy - Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>We talk about things that happened&#8230;because, you know&#8230;things happened&#8230;and my mic craps out when I get excited, but the OoT Podcast is back!!!!</p>
+        <p><br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2012/ootpc_e043_20121002.mp3" length="17761175" type="audio/mpeg" />
+      <itunes:subtitle>  - We talk about things that happened...because, you know...things happened...and my mic craps out when I get excited, but the OoT Podcast is back!!!! - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary> 
+
+        We talk about things that happened...because, you know...things happened...and my mic craps out when I get excited, but the OoT Podcast is back!!!!
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>The Order of Týr Radio Show</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24:40</itunes:duration>
+    </item>
+    <item>
+      <title>Radio Show #005</title>
+      <link>http://videogamemetal.com/radio-show-005-1174</link>
+      <comments>http://videogamemetal.com/radio-show-005-1174#comments</comments>
+      <pubDate>Fri, 06 Jan 2012 18:33:40 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Radio]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=1174</guid>
+      <description><![CDATA[The Radio Show is back for the first episode of 2012!! Songs in this Episode In Tenebris &#38; Knightrider of Doom – Rhapsody The Touch – Stan Bush O Death – Jen Titus Downfall – Children of Bodom Knight of the Wind – Crush 40 Gunning Down Romance – Savage Garden Intro/Outro &#8211; The Bran [...]]]></description>
+      <content:encoded><![CDATA[<p>The Radio Show is back for the first episode of 2012!!</p>
+
+
+        <p>Songs in this Episode</p>
+        <ul>
+          <li><a href="http://www.youtube.com/watch?v=wZTucIMttk4" target="_blank" class="noplay">In Tenebris &amp; Knightrider of Doom – Rhapsody</a></li>
+          <li><a href="http://www.youtube.com/watch?v=COYRxf13tIg" target="_blank" class="noplay">The Touch – Stan Bush</a></li>
+          <li><a href="http://www.youtube.com/watch?v=SXpnI52cLEc" target="_blank" class="noplay">O Death – Jen Titus</a></li>
+          <li><a href="http://www.youtube.com/watch?v=Bv-oswyPzak" target="_blank" class="noplay">Downfall – Children of Bodom</a></li>
+          <li><a href="http://www.youtube.com/watch?v=UfpUBfF8C3I" target="_blank" class="noplay">Knight of the Wind – Crush 40</a></li>
+          <li><a href="http://www.youtube.com/watch?v=rKzHRVGexWk" target="_blank" class="noplay">Gunning Down Romance – Savage Garden</a></li>
+        </ul>
+        <p>Intro/Outro &#8211; <a title="The Bran Flakes - Betcha Don't Know Where My Mommy Shops" href="http://freemusicarchive.org/music/The_Bran_Flakes/Shreds_Volume_1_1935/Shreds_Vol1_01-Bran_Flakes-Betcha_Dont_Know_Where_My_Mommy_Shops" target="_blank" class="noplay">The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My Mommy Shops</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/radio-show-005-1174/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootRadioShow/2012/ootrs_e005.mp3" length="37202320" type="audio/mpeg" />
+      <itunes:subtitle>The Radio Show is back for the first episode of 2012!! - Songs in this Episode   In Tenebris &amp; Knightrider of Doom – Rhapsody   The Touch – Stan Bush   O Death – Jen Titus   Downfall – Children of Bodom   Knight of the Wind – Crush 40 </itunes:subtitle>
+      <itunes:summary>The Radio Show is back for the first episode of 2012!!
+
+
+
+
+
+        Songs in this Episode
+
+
+        In Tenebris &amp; Knightrider of Doom – Rhapsody
+        The Touch – Stan Bush
+        O Death – Jen Titus
+        Downfall – Children of Bodom
+        Knight of the Wind – Crush 40
+        Gunning Down Romance – Savage Garden
+
+
+
+
+        Intro/Outro - The Bran Flakes - Betcha Don&#039;t Know Where My Mommy Shops</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:12</itunes:duration>
+    </item>
+    <item>
+      <title>Radio Show #004</title>
+      <link>http://videogamemetal.com/radio-show-004-1087</link>
+      <comments>http://videogamemetal.com/radio-show-004-1087#comments</comments>
+      <pubDate>Wed, 09 Nov 2011 16:32:30 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Radio]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=1087</guid>
+      <description><![CDATA[We&#8217;re a bit late on releasing this one as you can tell by the MCFC reference. =) We also had a bit of technical difficulties, but it&#8217;s not that Just Donna can&#8217;t handle! Here&#8217;s the Dubsteb Guns video we reference Songs in this Episode Blind Guardian &#8211; Precious Jerusalem Nocturnal Rites &#8211; Me Hopesfall &#8211; [...]]]></description>
+      <content:encoded><![CDATA[<p>We&#8217;re a bit late on releasing this one as you can tell by the MCFC reference.  =)  We also had a bit of technical difficulties, but it&#8217;s not that Just Donna can&#8217;t handle!</p>
+        <p><a href="http://www.youtube.com/watch?v=hDlif8Km4S4" title="Dubstep Guns" target="_blank">Here&#8217;s the Dubsteb Guns video we reference</a></p>
+
+
+        <p>Songs in this Episode</p>
+        <ul>
+          <li><a href="http://www.youtube.com/watch?v=O3qfnO2-s9w" target="_blank">Blind Guardian &#8211; Precious Jerusalem</a></li>
+          <li><a href="http://www.youtube.com/watch?v=xIeyScJ93q0" target="_blank">Nocturnal Rites &#8211; Me</a></li>
+          <li><a href="http://www.youtube.com/watch?v=uFKklLgVFFo" target="_blank">Hopesfall &#8211; The End of an Era</a></li>
+          <li><a href="http://www.youtube.com/watch?v=6mERPnnyac8" target="_blank">Darren Hayes &#8211; A Conversation with God</a></li>
+          <li><a href="http://www.youtube.com/watch?v=r0a-o16i_Gw" target="_blank">Klaypex &#8211; Lights</a></li>
+          <li><a href="http://www.youtube.com/watch?v=wkm-PtK07Fo" target="_blank">Killswitch Engage &#8211; My Last Serenade</a></li>
+        </ul>
+        <p>Intro/Outro &#8211; <a href="http://freemusicarchive.org/music/The_Bran_Flakes/Shreds_Volume_1_1935/Shreds_Vol1_01-Bran_Flakes-Betcha_Dont_Know_Where_My_Mommy_Shops" title="The Bran Flakes - Betcha Don't Know Where My Mommy Shops" target="_blank">The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My Mommy Shops</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/radio-show-004-1087/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootRadioShow/2011/ootrs_e004.mp3" length="36726700" type="audio/mpeg" />
+      <itunes:subtitle>We&#039;re a bit late on releasing this one as you can tell by the MCFC reference.  =)  We also had a bit of technical difficulties, but it&#039;s not that Just Donna can&#039;t handle! - Here&#039;s the Dubsteb Guns video we reference - Songs in this Episode - </itunes:subtitle>
+      <itunes:summary>We&#039;re a bit late on releasing this one as you can tell by the MCFC reference.  =)  We also had a bit of technical difficulties, but it&#039;s not that Just Donna can&#039;t handle!
+
+        Here&#039;s the Dubsteb Guns video we reference
+
+
+
+
+
+        Songs in this Episode
+
+
+        Blind Guardian - Precious Jerusalem
+        Nocturnal Rites - Me
+        Hopesfall - The End of an Era
+        Darren Hayes - A Conversation with God
+        Klaypex - Lights
+        Killswitch Engage - My Last Serenade
+
+
+        Intro/Outro - The Bran Flakes - Betcha Don&#039;t Know Where My Mommy Shops</itunes:summary>
+      <itunes:author>The Order of Týr Radio Show</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>51:01</itunes:duration>
+    </item>
+    <item>
+      <title>Radio Show #003</title>
+      <link>http://videogamemetal.com/radio-show-003-976</link>
+      <comments>http://videogamemetal.com/radio-show-003-976#comments</comments>
+      <pubDate>Thu, 22 Sep 2011 13:00:45 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Radio]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=976</guid>
+      <description><![CDATA[Join the never-ending journey for awesome music! Songs in this Episode Cradle of Filth – Cruelty Brought Thee Orchids A Perfect Circle – 3 Libras The Human Abstract – Crossing the Rubicon In Flames &#8211; Swim Breaking Benjamin – Breath Avenged Sevenfold &#8211; Fiction Intro/Outro &#8211; The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My [...]]]></description>
+      <content:encoded><![CDATA[<p>Join the never-ending journey for awesome music!</p>
+
+
+        <p>Songs in this Episode</p>
+        <ul>
+          <li><a href="http://www.youtube.com/watch?v=hW8HpvsbOi4" title="Cradle of Filth - Cruelty Brought Thee Orchids" target="_blank">Cradle of Filth – Cruelty Brought Thee Orchids</a></li>
+          <li><a href="http://www.youtube.com/watch?v=tWFv5ZoVET8" title="A Perfect Circle - 3 Libras" target="_blank">A Perfect Circle – 3 Libras</a></li>
+          <li><a href="http://www.youtube.com/watch?v=CF5b5oE6Mtg" title="The Human Abstract - Crossing the Rubicon" target="_blank">The Human Abstract – Crossing the Rubicon</a></li>
+          <li><a href="http://www.youtube.com/watch?v=b5K6A_PGdyQ" title="In Flames - Swim" target="_blank">In Flames &#8211; Swim</a></li>
+          <li><a href="http://www.youtube.com/watch?v=ZYJy_s0xKtU" title="Breaking Benjamin - Breath" target="_blank">Breaking Benjamin – Breath</a></li>
+          <li><a href="http://www.youtube.com/watch?v=jFmYlasjqzs" title="Avenged Sevenfold - Fiction" target="_blank">Avenged Sevenfold &#8211; Fiction</a></li>
+        </ul>
+        <p>Intro/Outro &#8211; <a href="http://freemusicarchive.org/music/The_Bran_Flakes/Shreds_Volume_1_1935/Shreds_Vol1_01-Bran_Flakes-Betcha_Dont_Know_Where_My_Mommy_Shops" title="The Bran Flakes - Betcha Don't Know Where My Mommy Shops" target="_blank">The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My Mommy Shops</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/radio-show-003-976/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootRadioShow/2011/ootrs_e003.mp3" length="47873358" type="audio/mpeg" />
+      <itunes:subtitle>Join the never-ending journey for awesome music! - Songs in this Episode Cradle of Filth – Cruelty Brought Thee Orchids A Perfect Circle – 3 Libras The Human Abstract – Crossing the Rubicon In Flames - Swim Breaking Benjamin – Breath </itunes:subtitle>
+      <itunes:summary>Join the never-ending journey for awesome music!
+
+
+
+
+
+        Songs in this Episode
+
+
+        Cradle of Filth – Cruelty Brought Thee Orchids
+        A Perfect Circle – 3 Libras
+        The Human Abstract – Crossing the Rubicon
+        In Flames - Swim
+        Breaking Benjamin – Breath
+        Avenged Sevenfold - Fiction
+
+
+        Intro/Outro - The Bran Flakes - Betcha Don&#039;t Know Where My Mommy Shops</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:06:29</itunes:duration>
+    </item>
+    <item>
+      <title>Radio Show #002</title>
+      <link>http://videogamemetal.com/radio-show-002-899</link>
+      <comments>http://videogamemetal.com/radio-show-002-899#comments</comments>
+      <pubDate>Thu, 01 Sep 2011 13:00:32 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Radio]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=899</guid>
+      <description><![CDATA[Come and continue the musical exploration with us! Songs in this Episode Nocturnal Rites &#8211; Awakening Meshuggah &#8211; Future Breed Machine Alice Cooper &#8211; Feed My Frankenstein Blind Guardian &#8211; Fly Rain Fell Within &#8211; Believe &#124; Lyrics Ra &#8211; A Poet&#8217;s Dream Intro/Outro &#8211; The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My Mommy [...]]]></description>
+      <content:encoded><![CDATA[<p>Come and continue the musical exploration with us!</p>
+
+
+        <p>Songs in this Episode</p>
+        <ul>
+          <li><a href="http://www.youtube.com/watch?v=qNVdE9GxM9A" title="Nocturnal Rites - Awakening" target="_blank">Nocturnal Rites &#8211; Awakening</a></li>
+          <li><a href="http://www.youtube.com/watch?v=vOd-T58qHLA" title="Meshuggah - Future Breed Machine" target="_blank">Meshuggah &#8211; Future Breed Machine</a></li>
+          <li><a href="http://www.youtube.com/watch?v=NO2cHJmDkBg&#038;feature=related" title="Alice Cooper - Feed My Frankenstein" target="_blank">Alice Cooper &#8211; Feed My Frankenstein</a></li>
+          <li><a href="http://www.youtube.com/watch?v=zkXtydmz8-Q" title="Blind Guardian - Fly" target="_blank">Blind Guardian &#8211; Fly</a></li>
+          <li><a href="http://www.youtube.com/watch?v=wDq9EEVvp58" title="Rain Fell Within - Believe" target="_blank">Rain Fell Within &#8211; Believe</a> | <a href="http://www.darklyrics.com/lyrics/rainfellwithin/believe.html#3" title="Believe Lyrics" target="_blank">Lyrics</a></li>
+          <li><a href="http://www.youtube.com/watch?v=7scvaJP5gU8" title="Ra - A Poet's Dream" target="_blank">Ra &#8211; A Poet&#8217;s Dream</a></li>
+        </ul>
+        <p>Intro/Outro &#8211; <a href="http://freemusicarchive.org/music/The_Bran_Flakes/Shreds_Volume_1_1935/Shreds_Vol1_01-Bran_Flakes-Betcha_Dont_Know_Where_My_Mommy_Shops" title="The Bran Flakes - Betcha Don't Know Where My Mommy Shops" target="_blank">The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My Mommy Shops</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/radio-show-002-899/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootRadioShow/2011/ootrs_e002.mp3" length="44748695" type="audio/mpeg" />
+      <itunes:subtitle>Come and continue the musical exploration with us! - Songs in this Episode Nocturnal Rites - Awakening Meshuggah - Future Breed Machine Alice Cooper - Feed My Frankenstein Blind Guardian - Fly Rain Fell Within - Believe | Lyrics </itunes:subtitle>
+      <itunes:summary>Come and continue the musical exploration with us!
+
+
+
+
+
+        Songs in this Episode
+
+
+        Nocturnal Rites - Awakening
+        Meshuggah - Future Breed Machine
+        Alice Cooper - Feed My Frankenstein
+        Blind Guardian - Fly
+        Rain Fell Within - Believe | Lyrics
+        Ra - A Poet&#039;s Dream
+
+
+        Intro/Outro - The Bran Flakes - Betcha Don&#039;t Know Where My Mommy Shops</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:02:09</itunes:duration>
+    </item>
+    <item>
+      <title>The Order of Týr Radio Show, Episode #001</title>
+      <link>http://videogamemetal.com/the-order-of-tyr-radio-show-episode-001-894</link>
+      <comments>http://videogamemetal.com/the-order-of-tyr-radio-show-episode-001-894#comments</comments>
+      <pubDate>Tue, 16 Aug 2011 17:04:11 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Radio]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=894</guid>
+      <description><![CDATA[With great pleasure may we introduce our new forum for sharing music, The Order of Týr Radio Show! Here we will share with you the music we&#8217;re into and why! Enjoy! Songs in this Episode Take That &#8211; Rule the World Living Sacrifice &#8211; Reject Symphony X &#8211; When All is Lost Kamelot &#8211; Rule [...]]]></description>
+      <content:encoded><![CDATA[<p>With great pleasure may we introduce our new forum for sharing music, The Order of Týr Radio Show!</p>
+        <p>Here we will share with you the music we&#8217;re into and why!  Enjoy!</p>
+
+
+        <p>Songs in this Episode</p>
+        <ul>
+          <li><a href="http://www.youtube.com/watch?v=KWJSsByl_Bs" title="Take That - Rule the World" target="_blank">Take That &#8211; Rule the World</a></li>
+          <li><a href="http://www.youtube.com/watch?v=vwQZO9dEjfQ" title="Living Sacrifice - Reject" target="_blank">Living Sacrifice &#8211; Reject</a></li>
+          <li><a href="http://www.youtube.com/watch?v=sNEuZ7djQuE" title="Symphony X - When All is Lost" target="_blank">Symphony X &#8211; When All is Lost</a></li>
+          <li><a href="http://www.youtube.com/watch?v=qJeqUW-T5hE" title="Kamelot - Rule the World" target="_blank">Kamelot &#8211; Rule the World</a></li>
+          <li><a href="http://www.youtube.com/watch?v=Rk3giyD54ng" title="Coronatus - Scream of the Butterfly" target="_blank">Coronatus &#8211; Scream of the Butterfly</a></li>
+          <li><a href="http://www.youtube.com/watch?v=K1smZBn1n8c" title="Van Canto - Lost Forever" target="_blank">Van Canto &#8211; Lost Forever</a></li>
+        </ul>
+        <p>Intro/Outro &#8211; <a href="http://freemusicarchive.org/music/The_Bran_Flakes/Shreds_Volume_1_1935/Shreds_Vol1_01-Bran_Flakes-Betcha_Dont_Know_Where_My_Mommy_Shops" title="The Bran Flakes - Betcha Don't Know Where My Mommy Shops" target="_blank">The Bran Flakes &#8211; Betcha Don&#8217;t Know Where My Mommy Shops</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/the-order-of-tyr-radio-show-episode-001-894/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootRadioShow/2011/ootrs_e001.mp3" length="41952862" type="audio/mpeg" />
+      <itunes:subtitle>With great pleasure may we introduce our new forum for sharing music, The Order of Týr Radio Show! - Here we will share with you the music we&#039;re into and why!  Enjoy! - Songs in this Episode Take That - Rule the World </itunes:subtitle>
+      <itunes:summary>With great pleasure may we introduce our new forum for sharing music, The Order of Týr Radio Show!
+
+        Here we will share with you the music we&#039;re into and why!  Enjoy!
+
+
+
+
+
+        Songs in this Episode
+
+
+        Take That - Rule the World
+        Living Sacrifice - Reject
+        Symphony X - When All is Lost
+        Kamelot - Rule the World
+        Coronatus - Scream of the Butterfly
+        Van Canto - Lost Forever
+
+
+        Intro/Outro - The Bran Flakes - Betcha Don&#039;t Know Where My Mommy Shops</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>58:16</itunes:duration>
+    </item>
+  </channel>
+</rss>

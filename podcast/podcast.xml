@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  >
+
+  <channel>
+    <title>The Order of Týr Podcast</title>
+    <atom:link href="http://videogamemetal.com/feed/podcast" rel="self" type="application/rss+xml" />
+    <link>http://videogamemetal.com</link>
+    <description></description>
+    <lastBuildDate>Fri, 05 Jul 2013 15:07:34 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://wordpress.org/?v=3.5.2</generator>
+    <itunes:summary></itunes:summary>
+    <itunes:author>Order of Týr</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://videogamemetal.com/wp-content/uploads/powerpress/tra-cover_600x600.png" />
+    <itunes:owner>
+      <itunes:name>Order of Týr</itunes:name>
+      <itunes:email>podcast@orderoftyr.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>podcast@orderoftyr.com (Order of Týr)</managingEditor>
+    <copyright>The Order of Týr Podcast is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:keywords>Music,Video,Games,Power,Metal,Nerds,Electronic Music,Trance,Wizards,RPGs</itunes:keywords>
+    <image>
+      <title>The Order of Týr Podcast</title>
+      <url>http://videogamemetal.com/wp-content/uploads/powerpress/tra-cover_144x144-310.png</url>
+      <link>http://videogamemetal.com</link>
+    </image>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games" />
+    </itunes:category>
+    <itunes:category text="Music" />
+    <itunes:category text="Games &amp; Hobbies" />
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <item>
+      <title>Podcast #044 &#8211; Let&#8217;s Talk About Some Vidya Gamez</title>
+      <link>http://videogamemetal.com/podcast-044-lets-talk-about-some-vidya-gamez-1525</link>
+      <comments>http://videogamemetal.com/podcast-044-lets-talk-about-some-vidya-gamez-1525#comments</comments>
+      <pubDate>Fri, 19 Oct 2012 03:52:29 +0000</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://videogamemetal.com/?p=1525</guid>
+      <description><![CDATA[&#160; In this week&#8217;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2. Also, it is made abundantly clear that Order of Týr is, in fact, on the [...]]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>In this week&#8217;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2.  Also, it is made abundantly clear that Order of Týr is, in fact, on the internet.</p>
+        <p><br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-044-lets-talk-about-some-vidya-gamez-1525/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2012/ootpc_e044_20121016.mp3" length="32041729" type="audio/mpeg" />
+      <itunes:keywords>Borderlands 2, Retro City Rampage, Resident Evil 6, Video Games, Chiptunes, metal</itunes:keywords>
+      <itunes:subtitle>  - In this week&#039;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2.  Also,</itunes:subtitle>
+      <itunes:summary> 
+
+        In this week&#039;s edition of the OoT Podcast, Jordan and Mike dive back into some video game talk with a few recent releases that have been on their minds including Retro City Rampage, Resident Evil 6, and Borderlands 2.  Also, it is made abundantly clear that Order of Týr is, in fact, on the internet.
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>31:18</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #043 &#8211; The OoTPC is B-A-C-K</title>
+      <link>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504</link>
+      <comments>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504#comments</comments>
+      <pubDate>Fri, 05 Oct 2012 05:20:16 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://videogamemetal.com/?p=1504</guid>
+      <description><![CDATA[&#160; We talk about things that happened&#8230;because, you know&#8230;things happened&#8230;and my mic craps out when I get excited, but the OoT Podcast is back!!!! Music: Machinae Supremacy - Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>We talk about things that happened&#8230;because, you know&#8230;things happened&#8230;and my mic craps out when I get excited, but the OoT Podcast is back!!!!</p>
+        <p><br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-043-the-ootpc-is-b-a-c-k-1504/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2012/ootpc_e043_20121002.mp3" length="17761175" type="audio/mpeg" />
+      <itunes:subtitle>  - We talk about things that happened...because, you know...things happened...and my mic craps out when I get excited, but the OoT Podcast is back!!!! - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary> 
+
+        We talk about things that happened...because, you know...things happened...and my mic craps out when I get excited, but the OoT Podcast is back!!!!
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24:40</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #042 &#8211; Sonic Generations and Catherine Spoiler Extravaganza</title>
+      <link>http://videogamemetal.com/podcast-042-sonic-generations-and-catherine-spoiler-extravaganza-1114</link>
+      <comments>http://videogamemetal.com/podcast-042-sonic-generations-and-catherine-spoiler-extravaganza-1114#comments</comments>
+      <pubDate>Sat, 19 Nov 2011 21:39:04 +0000</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=1114</guid>
+      <description><![CDATA[&#160; Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#8217;s upcoming game, Lollipop Chainsaw.  Oh and apparently Mike still needs to play Bayonetta. Music: Machinae Supremacy - Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#8217;s upcoming game, Lollipop Chainsaw.  Oh and apparently Mike still needs to play Bayonetta.<br />
+          <br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> - <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-042-sonic-generations-and-catherine-spoiler-extravaganza-1114/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e042_20111117.mp3" length="27757869" type="audio/mpeg" />
+      <itunes:keywords>Sonic The Hedgehog, Catherine, Katherine, Order of Týr, Bayonetta, Lollipop Chainsaw, Video Games</itunes:keywords>
+      <itunes:subtitle>  - Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#039;s u...</itunes:subtitle>
+      <itunes:summary> 
+
+        Mike spends some time geeking out about some of the Easter Eggs sprinkled throughout Sonic Generations (spoilers) and then Jordan leads an in-depth discussion on Catherine (more spoilers).  There is also some talk about Grasshopper Manufacture&#039;s upcoming game, Lollipop Chainsaw.  Oh and apparently Mike still needs to play Bayonetta.
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>41:35</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #041 &#8211; Fantasy/Comic Con, Online Passes, What we&#8217;re playing/watching</title>
+      <link>http://videogamemetal.com/podcast-041-fantasycomic-con-online-passes-what-were-playingwatching-1043</link>
+      <comments>http://videogamemetal.com/podcast-041-fantasycomic-con-online-passes-what-were-playingwatching-1043#comments</comments>
+      <pubDate>Thu, 27 Oct 2011 12:29:26 +0000</pubDate>
+      <dc:creator>Michael</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=1043</guid>
+      <description><![CDATA[&#160; Still on a massive high from the Memphis Comic &#38; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#8217;re playing/going to play, and what web series we&#8217;ve been into lately. Also, Online Passes rant, because VIDEO GAMES. Music: Machinae Supremacy &#8211; Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;</p>
+        <p>Still on a massive high from the Memphis Comic &amp; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#8217;re playing/going to play, and what web series we&#8217;ve been into lately. Also, Online Passes rant, because VIDEO GAMES.<br />
+          <br />
+          <br />
+          Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> &#8211; <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-041-fantasycomic-con-online-passes-what-were-playingwatching-1043/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e041_20111020.mp3" length="33913561" type="audio/mpeg" />
+      <itunes:keywords>online passes, comic, fantasy, music, hawp, game chasers, gaming, comicon, convention</itunes:keywords>
+      <itunes:subtitle>  - Still on a massive high from the Memphis Comic &amp; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#039;re playing/going to play, and what web series we&#039;ve been into lately. Also, Online Passes rant, because VIDEO GAMES. </itunes:subtitle>
+      <itunes:summary> 
+
+        Still on a massive high from the Memphis Comic &amp; Fantasy Convention, Jables and I discuss our comic con experiences, what games we&#039;re playing/going to play, and what web series we&#039;ve been into lately. Also, Online Passes rant, because VIDEO GAMES.
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>48:29</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #040 &#8211; H4X, Rants, &amp; GAEMZ!</title>
+      <link>http://videogamemetal.com/podcast-040-h4x-rants-gaemz-840</link>
+      <comments>http://videogamemetal.com/podcast-040-h4x-rants-gaemz-840#comments</comments>
+      <pubDate>Sat, 23 Jul 2011 15:38:50 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/?p=840</guid>
+      <description><![CDATA[They&#8217;re up in our .com h4x1n&#8217; our gearz of war. Also, we talk about a bunch of game demos, and I rant about Comcast, lulz. Music: Machinae Supremacy &#8211; Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>They&#8217;re up in our .com h4x1n&#8217; our gearz of war.  Also, we talk about a bunch of game demos, and I rant about Comcast, lulz.</p>
+
+
+        <p>Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> &#8211; <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-040-h4x-rants-gaemz-840/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e040_20110722.mp3" length="23272391" type="audio/mpeg" />
+      <itunes:keywords>Catherine,Comcast,Machinae,Supremacy,Splosion,Terraria,Steam,hacked,Gears,War</itunes:keywords>
+      <itunes:subtitle>They&#039;re up in our .com h4x1n&#039; our gearz of war.  Also, we talk about a bunch of game demos, and I rant about Comcast, lulz. - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary>They&#039;re up in our .com h4x1n&#039; our gearz of war.  Also, we talk about a bunch of game demos, and I rant about Comcast, lulz.
+
+
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>42:33</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #039 &#8211; The Q&amp;A &#8211; Target: The Hammer K</title>
+      <link>http://videogamemetal.com/podcast-039-the-qa-target-the-hammer-k-833</link>
+      <comments>http://videogamemetal.com/podcast-039-the-qa-target-the-hammer-k-833#comments</comments>
+      <pubDate>Fri, 15 Jul 2011 03:40:30 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://66.228.45.244/www.orderoftyr.com/htdocs/?p=833</guid>
+      <description><![CDATA[Donna and I set up an inquisition of Mike to determine if he is or is not a robot. Music: Machinae Supremacy &#8211; Sidology 3 &#8211; Apex Ultima]]></description>
+      <content:encoded><![CDATA[<p>Donna and I set up an inquisition of Mike to determine if he is or is not a robot.</p>
+
+
+        <p>Music: <a href="http://machinaesupremacy.com" target="_blank">Machinae Supremacy</a> &#8211; <a href="http://www.youtube.com/watch?v=nZoSLqpUCx8" target="_blank">Sidology 3 &#8211; Apex Ultima</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-039-the-qa-target-the-hammer-k-833/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e039_20110705.mp3" length="38298083" type="audio/mpeg" />
+      <itunes:keywords>Jim,Sterling,Jimquisition,AVGN,James,Rolfe,Dream,Theater,drums</itunes:keywords>
+      <itunes:subtitle>Donna and I set up an inquisition of Mike to determine if he is or is not a robot. - Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:subtitle>
+      <itunes:summary>Donna and I set up an inquisition of Mike to determine if he is or is not a robot.
+
+
+
+
+
+        Music: Machinae Supremacy - Sidology 3 - Apex Ultima</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>53:11</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #038 &#8211; OoT News, RE 3DS, and Transformers 3</title>
+      <link>http://videogamemetal.com/podcast-038-oot-news-re-3ds-and-transformers-3-809</link>
+      <comments>http://videogamemetal.com/podcast-038-oot-news-re-3ds-and-transformers-3-809#comments</comments>
+      <pubDate>Thu, 30 Jun 2011 16:39:21 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=809</guid>
+      <description><![CDATA[This week&#8217;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking. Music: FIGHT!! Version #1 from Grandia II]]></description>
+      <content:encoded><![CDATA[<p>This week&#8217;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking.</p>
+
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=JurH-KfEW68" target="_blank">FIGHT!! Version #1 from Grandia II</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-038-oot-news-re-3ds-and-transformers-3-809/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e038_20110630.mp3" length="38059572" type="audio/mpeg" />
+      <itunes:keywords>order,of,tyr,sonic,generations,resident,evil,mercenaries,capcom,transformers</itunes:keywords>
+      <itunes:subtitle>This week&#039;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking. - Music: FIGHT!! Version #1 from Grandia II</itunes:subtitle>
+      <itunes:summary>This week&#039;s episode brings a flood of Order of Týr updates, anger about the attack on used games, and at least a little bit of a release due to some things not totally sucking.
+
+
+
+
+
+        Music: FIGHT!! Version #1 from Grandia II</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:52</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #037 &#8211; Duke Nukem Forever &amp; Game Industry Rants</title>
+      <link>http://videogamemetal.com/podcast-037-duke-nukem-forever-game-industry-rants-782</link>
+      <comments>http://videogamemetal.com/podcast-037-duke-nukem-forever-game-industry-rants-782#comments</comments>
+      <pubDate>Thu, 23 Jun 2011 04:59:08 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=782</guid>
+      <description><![CDATA[Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry. Music: she &#8211; chiptek (download the album for free under the CC By-NC-ND 3.0 license)]]></description>
+      <content:encoded><![CDATA[<p>Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry.</p>
+
+
+        <p>Music: <a href="http://shemusic.org" target="_blank">she &#8211; chiptek</a> (download the album for free under the CC By-NC-ND 3.0 license)</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-037-duke-nukem-forever-game-industry-rants-782/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e037_20110622.mp3" length="60396354" type="audio/mpeg" />
+      <itunes:keywords>Duke,Nukem,Forever,Netflix,video,games,industry,Kinect,Rainwave,Gamebox 1.0,Epica,Nightwish</itunes:keywords>
+      <itunes:subtitle>Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry. - Music: she - chiptek (download the album for free un...</itunes:subtitle>
+      <itunes:summary>Mike and I lament about the new Duke Nukem game, talk about some movies that made their ways into our lives only due to Netflix, and pine over the current state of the video game industry.
+
+
+
+
+
+        Music: she - chiptek (download the album for free under the CC By-NC-ND 3.0 license)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:02:55</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #036 &#8211; The Q&amp;A &#8211; Target: Jordan</title>
+      <link>http://videogamemetal.com/podcast-036-the-qa-target-jordan-777</link>
+      <comments>http://videogamemetal.com/podcast-036-the-qa-target-jordan-777#comments</comments>
+      <pubDate>Fri, 17 Jun 2011 19:02:59 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=777</guid>
+      <description><![CDATA[In this episode, Donna and The Hammer K probe me for more info about myself, and I share a little extra, as well. Music: After Forever &#8211; Beautiful Emptiness]]></description>
+      <content:encoded><![CDATA[<p>In this episode, Donna and The Hammer K probe me for more info about myself, and I share a little extra, as well.</p>
+
+        <p>Music:  <a href="http://www.youtube.com/watch?v=CHxVXU0yfHA" target="_blank">After Forever &#8211; Beautiful Emptiness</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-036-the-qa-target-jordan-777/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/ootpc_e036_20110614.mp3" length="55214914" type="audio/mpeg" />
+      <itunes:keywords>video,games.music,veganism,mathematics,linux,floss,foss,fsf,free,software</itunes:keywords>
+      <itunes:subtitle>In this episode, Donna and The Hammer K probe me for more info about myself, and I share a little extra, as well. - Music:  After Forever - Beautiful Emptiness</itunes:subtitle>
+      <itunes:summary>In this episode, Donna and The Hammer K probe me for more info about myself, and I share a little extra, as well.
+
+
+
+        Music:  After Forever - Beautiful Emptiness</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>57:31</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #035 &#8211; E3 2011</title>
+      <link>http://videogamemetal.com/podcast-035-622</link>
+      <comments>http://videogamemetal.com/podcast-035-622#comments</comments>
+      <pubDate>Thu, 09 Jun 2011 15:57:40 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=622</guid>
+      <description><![CDATA[No need to sit through 4+ hours of hype because in this episode, we discuss the developments from the major press conferences at E3. Take a listen! Music &#8211; Daniel Tidwell &#8211; The Winds of 600 AD (Chrono Trigger)]]></description>
+      <content:encoded><![CDATA[<p>No need to sit through 4+ hours of hype because in this episode, we discuss the developments from the major press conferences at E3. Take a listen! </p>
+
+        <p>Music &#8211; <a href="http://danieltidwell.bandcamp.com/track/the-winds-of-600-ad-chrono-trigger" target="_blank">Daniel Tidwell &#8211; The Winds of 600 AD (Chrono Trigger)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-035-622/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode035_20110607.mp3" length="46418105" type="audio/mpeg" />
+      <itunes:keywords>E3,Sony,Microsoft,Nintendo,Halo,Call of Duty,Modern Warfare, Tomb Raider,Vita,Uncharted 3,Starfox 64 3D,Silent Hill HD Remake</itunes:keywords>
+      <itunes:subtitle>No need to sit through 4+ hours of hype because in this episode, we discuss the developments from the major press conferences at E3. Take a listen!  - Music - Daniel Tidwell - The Winds of 600 AD (Chrono Trigger)</itunes:subtitle>
+      <itunes:summary>No need to sit through 4+ hours of hype because in this episode, we discuss the developments from the major press conferences at E3. Take a listen! 
+
+
+
+        Music - Daniel Tidwell - The Winds of 600 AD (Chrono Trigger)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>48:32</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #034 &#8211; MOAR Top 3s</title>
+      <link>http://videogamemetal.com/podcast-034-620</link>
+      <comments>http://videogamemetal.com/podcast-034-620#comments</comments>
+      <pubDate>Thu, 02 Jun 2011 15:57:14 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=620</guid>
+      <description><![CDATA[As the DonnaCasting continues, we share some of our favorite old school video games, new school video games, and television series. Music: ThePlasmas &#8211; A Wild Pokemon Appears!]]></description>
+      <content:encoded><![CDATA[<p>As the DonnaCasting continues, we share some of our favorite old school video games, new school video games, and television series. </p>
+
+        <p>Music: <a href="http://www.last.fm/music/ThePlasmas" target="_blank">ThePlasmas &#8211; A Wild Pokemon Appears!</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-034-620/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode034_20110602.mp3" length="67174544" type="audio/mpeg" />
+      <itunes:keywords>Silent Hill 2,Donkey Kong Country,Super Mario Bros,Sonic the Hedgehog,Portal,Bioshock,X-FIles,House,Firefly,Arrested Development,The Office</itunes:keywords>
+      <itunes:subtitle>As the DonnaCasting continues, we share some of our favorite old school video games, new school video games, and television series.  - Music: ThePlasmas - A Wild Pokemon Appears!</itunes:subtitle>
+      <itunes:summary>As the DonnaCasting continues, we share some of our favorite old school video games, new school video games, and television series. 
+
+
+
+        Music: ThePlasmas - A Wild Pokemon Appears!</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:13:46</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #033 &#8211; The Portal 2 Episode</title>
+      <link>http://videogamemetal.com/podcast-033-578</link>
+      <comments>http://videogamemetal.com/podcast-033-578#comments</comments>
+      <pubDate>Thu, 26 May 2011 16:03:07 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=578</guid>
+      <description><![CDATA[[PORTAL 2 SPOILERS] 27:30 &#8211; 43:00 [/PORTAL 2 SPOILERS] Some news updates and we talk about a few video games we&#8217;ve been playing including the extra awesome sauce Portal 2! Music: CarboHydroM &#8211; Penguin Cap (as an homage to Extra Credits)]]></description>
+      <content:encoded><![CDATA[<p>[PORTAL 2 SPOILERS] 27:30 &#8211; 43:00 [/PORTAL 2 SPOILERS] </p>
+        <p>Some news updates and we talk about a few video games we&#8217;ve been playing including the extra awesome sauce Portal 2! </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=ahfi_0CpMoc" target="_blank">CarboHydroM &#8211; Penguin Cap</a> (as an homage to <a href="http://www.escapistmagazine.com/videos/view/extra-credits" target="_blank">Extra Credits</a>)</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-033-578/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode033_20110525.mp3" length="93606455" type="audio/mpeg" />
+      <itunes:keywords>Order of Týr,Order of Tyr,video games,L.A. Noire,Sonic Colors,DS,Portal 2,Portal,music,power metal</itunes:keywords>
+      <itunes:subtitle>[PORTAL 2 SPOILERS] 27:30 - 43:00 [/PORTAL 2 SPOILERS]  - Some news updates and we talk about a few video games we&#039;ve been playing including the extra awesome sauce Portal 2!  - Music: CarboHydroM - Penguin Cap (as an homage to Extra Credits)</itunes:subtitle>
+      <itunes:summary>[PORTAL 2 SPOILERS] 27:30 - 43:00 [/PORTAL 2 SPOILERS] 
+
+        Some news updates and we talk about a few video games we&#039;ve been playing including the extra awesome sauce Portal 2! 
+
+
+
+        Music: CarboHydroM - Penguin Cap (as an homage to Extra Credits)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>48:45</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #032 &#8211; The Top 3 &#8211; Movie Edition</title>
+      <link>http://videogamemetal.com/podcast-032-554</link>
+      <comments>http://videogamemetal.com/podcast-032-554#comments</comments>
+      <pubDate>Thu, 19 May 2011 16:17:37 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=554</guid>
+      <description><![CDATA[In this DonnaCast, we go over our top 3 movie soundtracks, top 3 movies that are more than 10 years old, and top 3 movies that are 10 or less years old. Music: Pirates of the Caribbean &#8211; He&#8217;s a Pirate]]></description>
+      <content:encoded><![CDATA[<p>In this DonnaCast, we go over our top 3 movie soundtracks, top 3 movies that are more than 10 years old, and top 3 movies that are 10 or less years old. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=ttQjm-8OITE" target="_blank">Pirates of the Caribbean &#8211; He&#8217;s a Pirate</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-032-554/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode032_20110518.mp3" length="94757514" type="audio/mpeg" />
+      <itunes:keywords>movies,Pirates of the Caribbean,Jurassic Park,Scott Pilgrim vs. the World,Sister Act 2,The Matrix,Star Wars Trilogy,Back to the Future Trilogy,In the Mouth of Madness,Cube 2,Hypercube</itunes:keywords>
+      <itunes:subtitle>In this DonnaCast, we go over our top 3 movie soundtracks, top 3 movies that are more than 10 years old, and top 3 movies that are 10 or less years old.  - Music: Pirates of the Caribbean - He&#039;s a Pirate</itunes:subtitle>
+      <itunes:summary>In this DonnaCast, we go over our top 3 movie soundtracks, top 3 movies that are more than 10 years old, and top 3 movies that are 10 or less years old. 
+
+
+
+        Music: Pirates of the Caribbean - He&#039;s a Pirate</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>49:21</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #031 &#8211; Portal 2 and Music Reviews</title>
+      <link>http://videogamemetal.com/podcast-031-528</link>
+      <comments>http://videogamemetal.com/podcast-031-528#comments</comments>
+      <pubDate>Thu, 12 May 2011 16:38:34 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=528</guid>
+      <description><![CDATA[We talk about Portal 2 (no spoilers) and review some musical albumings. Also, an important question is answered. Can you fly, Bobby? Music: DJ Hixxy &#8211; Fire in the Sky]]></description>
+      <content:encoded><![CDATA[<p>We talk about Portal 2 (no spoilers) and review some musical albumings. Also, an important question is answered. </p>
+        <p>Can you fly, Bobby? </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=0dqOqMRE5Fo" target="_blank">DJ Hixxy &#8211; Fire in the Sky</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-031-528/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode031_20110510.mp3" length="70601981" type="audio/mpeg" />
+      <itunes:keywords>music,video games,Portal,Portal 2,Robocop</itunes:keywords>
+      <itunes:subtitle>We talk about Portal 2 (no spoilers) and review some musical albumings. Also, an important question is answered.  - Can you fly, Bobby?  - Music: DJ Hixxy - Fire in the Sky</itunes:subtitle>
+      <itunes:summary>We talk about Portal 2 (no spoilers) and review some musical albumings. Also, an important question is answered. 
+
+        Can you fly, Bobby? 
+
+
+
+        Music: DJ Hixxy - Fire in the Sky</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>36:46</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #030 &#8211; The Interview</title>
+      <link>http://videogamemetal.com/podcast-030-506</link>
+      <comments>http://videogamemetal.com/podcast-030-506#comments</comments>
+      <pubDate>Thu, 05 May 2011 19:47:05 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=506</guid>
+      <description><![CDATA[Donna commandeers the podcast and conducts an interview of us that leaves us psychologically skyclad. Music: Vertexguy&#8217;s Contra &#8211; Jungle Jam]]></description>
+      <content:encoded><![CDATA[<p>Donna commandeers the podcast and conducts an interview of us that leaves us psychologically skyclad. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=T5JlGQ5orL8" target="_blank">Vertexguy&#8217;s Contra &#8211; Jungle Jam</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-030-506/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode030_20110503.mp3" length="109117756" type="audio/mpeg" />
+      <itunes:keywords>Order of Týr,video games,music,interview,RPG,pen and paper,D&amp;D,tabletop gaming,robots,drums</itunes:keywords>
+      <itunes:subtitle>Donna commandeers the podcast and conducts an interview of us that leaves us psychologically skyclad.  - Music: Vertexguy&#039;s Contra - Jungle Jam</itunes:subtitle>
+      <itunes:summary>Donna commandeers the podcast and conducts an interview of us that leaves us psychologically skyclad. 
+
+
+
+        Music: Vertexguy&#039;s Contra - Jungle Jam</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>56:50</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #029 &#8211; MK Legacy, PSN Woes, and Project Cafe</title>
+      <link>http://videogamemetal.com/podcast-029-460</link>
+      <comments>http://videogamemetal.com/podcast-029-460#comments</comments>
+      <pubDate>Thu, 28 Apr 2011 16:26:50 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=460</guid>
+      <description><![CDATA[Due to raging storms, Donna is unable to command the podcast this evening, so we make due without her by talk a little more about Mortal Kombat Legacy, recount Sony&#8217;s woes with the recent and on-going PSN outage, and then discuss Nintendo&#8217;s officially confirm new console codenamed Project Cafe. Music: Xenoblade &#8211; Mechanical Rhythm]]></description>
+      <content:encoded><![CDATA[<p>Due to raging storms, Donna is unable to command the podcast this evening, so we make due without her by talk a little more about Mortal Kombat Legacy, recount Sony&#8217;s woes with the recent and on-going PSN outage, and then discuss Nintendo&#8217;s officially confirm new console codenamed Project Cafe. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=nCclUgQk1Lk" target="_blank">Xenoblade &#8211; Mechanical Rhythm</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-029-460/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode029_20110427.mp3" length="116513126" type="audio/mpeg" />
+      <itunes:keywords>Order of Týr,video games,Order of Tyr,Mortal Kombat,Mortal Kombat Legacy,PSN,Sony,Playstation,PS3,Nintendo,Project Cafe</itunes:keywords>
+      <itunes:subtitle>Due to raging storms, Donna is unable to command the podcast this evening, so we make due without her by talk a little more about Mortal Kombat Legacy, recount Sony&#039;s woes with the recent and on-going PSN outage,</itunes:subtitle>
+      <itunes:summary>Due to raging storms, Donna is unable to command the podcast this evening, so we make due without her by talk a little more about Mortal Kombat Legacy, recount Sony&#039;s woes with the recent and on-going PSN outage, and then discuss Nintendo&#039;s officially confirm new console codenamed Project Cafe. 
+
+
+
+        Music: Xenoblade - Mechanical Rhythm</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:00:41</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #028 &#8211; Flames of Destiny! MK Legacy, and Portal 2</title>
+      <link>http://videogamemetal.com/podcast-028-431</link>
+      <comments>http://videogamemetal.com/podcast-028-431#comments</comments>
+      <pubDate>Fri, 22 Apr 2011 03:58:24 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=431</guid>
+      <description><![CDATA[We&#8217;re back in action with full effect after the release of our sophomore album, Flames of Destiny!! We talk about a few goings-on with Order of Týr, some new games, and some new developments in other video-game-related media. Music: X-formZ &#8211; Deflektor]]></description>
+      <content:encoded><![CDATA[<p>We&#8217;re back in action with full effect after the release of our sophomore album, Flames of Destiny!! We talk about a few goings-on with Order of Týr, some new games, and some new developments in other video-game-related media. </p>
+
+        <p>Music: <a href="http://bit.ly/gOpzyP" target="_blank">X-formZ &#8211; Deflektor</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-028-431/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode028_20110419.mp3" length="92695304" type="audio/mpeg" />
+      <itunes:keywords>Flames of Destiny,Mortal Kombat,Mortal Kombat Legacy,Portal 2,Videos,Pokemon Black,Pokemon White,Pokemon,SkyNet,Terminator</itunes:keywords>
+      <itunes:subtitle>We&#039;re back in action with full effect after the release of our sophomore album, Flames of Destiny!! We talk about a few goings-on with Order of Týr, some new games, and some new developments in other video-game-related media.  - </itunes:subtitle>
+      <itunes:summary>We&#039;re back in action with full effect after the release of our sophomore album, Flames of Destiny!! We talk about a few goings-on with Order of Týr, some new games, and some new developments in other video-game-related media. 
+
+
+
+        Music: X-formZ - Deflektor</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>48:17</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #027 &#8211; Donna Joins Us for a Strange Podcast</title>
+      <link>http://videogamemetal.com/podcast-027-303</link>
+      <comments>http://videogamemetal.com/podcast-027-303#comments</comments>
+      <pubDate>Wed, 02 Mar 2011 16:10:08 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=303</guid>
+      <description><![CDATA[Donna comes along for some news and some rants, you know, the usual. =) We must apologize for some of the artifacts in this one. Our bandwidth was choking Music: Machinae Supremacy &#8211; Sidstyler which is a cover of Bomfunk MC&#8217;s Freestyler]]></description>
+      <content:encoded><![CDATA[<p>Donna comes along for some news and some rants, you know, the usual. =) We must apologize for some of the artifacts in this one. Our bandwidth was choking </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=bUbKARj110w" target="_blank">Machinae Supremacy &#8211; Sidstyler</a> which is a cover of <a href="http://www.youtube.com/watch?v=ymNFyxvIdaM" target="_blank">Bomfunk MC&#8217;s Freestyler</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-027-303/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode027_20110224.mp3" length="34985063" type="audio/mpeg" />
+      <itunes:keywords>Bulletstorm,video games,touring,music</itunes:keywords>
+      <itunes:subtitle>Donna comes along for some news and some rants, you know, the usual. =) We must apologize for some of the artifacts in this one. Our bandwidth was choking  - Music: Machinae Supremacy - Sidstyler which is a cover of Bomfunk MC&#039;s Freestyler</itunes:subtitle>
+      <itunes:summary>Donna comes along for some news and some rants, you know, the usual. =) We must apologize for some of the artifacts in this one. Our bandwidth was choking 
+
+
+
+        Music: Machinae Supremacy - Sidstyler which is a cover of Bomfunk MC&#039;s Freestyler</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24:18</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #026 &#8211; DNF Special Edition, Press Start 2</title>
+      <link>http://videogamemetal.com/podcast-026-301</link>
+      <comments>http://videogamemetal.com/podcast-026-301#comments</comments>
+      <pubDate>Mon, 21 Feb 2011 20:25:38 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=301</guid>
+      <description><![CDATA[In this week&#8217;s episode, we talk about releasing Ignite the Desire on the OCRemix forums. We also discuss some upcoming games on Steam, the Duke Nukem Forever Balls of Steel Edition, and the sequel to one of the best (if not THE best) video game movies ever made, Press Start 2 Continue! Music: Danimal Cannon [...]]]></description>
+      <content:encoded><![CDATA[<p>In this week&#8217;s episode, we talk about releasing Ignite the Desire on the OCRemix forums. We also discuss some upcoming games on Steam, the Duke Nukem Forever Balls of Steel Edition, and the sequel to one of the best (if not THE best) video game movies ever made, Press Start 2 Continue! </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=OtbtiKdXBUk" target="_blank">Danimal Cannon &#8211; Lucca/Fanfare from Chrono Trigger </a></p>
+        <p>If you&#8217;re not familiar with Danimal Cannon, he&#8217;s an awesome musician/guitarist/mixing engineer who does video game remixes and music with <a href="http://baddudesmusic.com/" target="_blank">The Bad Dudes</a> and his band <a href="http://armcannon.com/" target="_blank">Armcannon</a>. Check him out&#8230;you&#8217;ll be glad you did!</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-026-301/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode026_20110217.mp3" length="35088508" type="audio/mpeg" />
+      <itunes:keywords>Portal 2,Crysis 2,Duke Nukem Forever,Video Game Music,Video Games</itunes:keywords>
+      <itunes:subtitle>In this week&#039;s episode, we talk about releasing Ignite the Desire on the OCRemix forums. We also discuss some upcoming games on Steam, the Duke Nukem Forever Balls of Steel Edition, and the sequel to one of the best (if not THE best) video game movies ...</itunes:subtitle>
+      <itunes:summary>In this week&#039;s episode, we talk about releasing Ignite the Desire on the OCRemix forums. We also discuss some upcoming games on Steam, the Duke Nukem Forever Balls of Steel Edition, and the sequel to one of the best (if not THE best) video game movies ever made, Press Start 2 Continue! 
+
+
+
+        Music: Danimal Cannon - Lucca/Fanfare from Chrono Trigger 
+
+        If you&#039;re not familiar with Danimal Cannon, he&#039;s an awesome musician/guitarist/mixing engineer who does video game remixes and music with The Bad Dudes and his band Armcannon. Check him out...you&#039;ll be glad you did!</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24:22</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #025 &#8211; Touring, Product Placement, MK TV Series</title>
+      <link>http://videogamemetal.com/podcast-025-298</link>
+      <comments>http://videogamemetal.com/podcast-025-298#comments</comments>
+      <pubDate>Wed, 09 Feb 2011 07:06:33 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=298</guid>
+      <description><![CDATA[Back after a week&#8217;s break with a little bit of band news, talk about product placement in video games with a handy example. Game Industry news, some TV crossover news, and more! Email questions or &#8220;Hey, what&#8217;s up?&#8221; to podcast@orderoftyr.com! Music: Comic Jumper &#8211; Brad&#8217;s Theme]]></description>
+      <content:encoded><![CDATA[<p>Back after a week&#8217;s break with a little bit of band news, talk about product placement in video games with a handy example. Game Industry news, some TV crossover news, and more! </p>
+        <p>Email questions or &#8220;Hey, what&#8217;s up?&#8221; to podcast@orderoftyr.com! </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=a5K62bt6Sw4" target="_blank">Comic Jumper &#8211; Brad&#8217;s Theme</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-025-298/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode025_20110208.mp3" length="32940080" type="audio/mpeg" />
+      <itunes:keywords>video games,Alan Wake,Penny Arcade,Mortal Kombat,WoW,EverQuest,Global Agenda,Star War,The Old Republic,Hudsonsoft,Hudson</itunes:keywords>
+      <itunes:subtitle>Back after a week&#039;s break with a little bit of band news, talk about product placement in video games with a handy example. Game Industry news, some TV crossover news, and more!  - Email questions or &quot;Hey, what&#039;s up?&quot; to podcast@orderoftyr.com!  - </itunes:subtitle>
+      <itunes:summary>Back after a week&#039;s break with a little bit of band news, talk about product placement in video games with a handy example. Game Industry news, some TV crossover news, and more! 
+
+        Email questions or &quot;Hey, what&#039;s up?&quot; to podcast@orderoftyr.com! 
+
+
+
+        Music: Comic Jumper - Brad&#039;s Theme</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>34:24</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #024 &#8211; PSP2/NGP, New Matrix Movies</title>
+      <link>http://videogamemetal.com/podcast-024-296</link>
+      <comments>http://videogamemetal.com/podcast-024-296#comments</comments>
+      <pubDate>Sun, 30 Jan 2011 06:49:32 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=296</guid>
+      <description><![CDATA[On this episode of As Order of Týr Turns &#8211; a small studio update, a mobile gaming discussion, the PSP2/NGP, a few new games played, new Matrix movies, and a healthy dose of ranting. =) Music: Angra &#8211; Spread Your Fire]]></description>
+      <content:encoded><![CDATA[<p>On this episode of As Order of Týr Turns &#8211; a small studio update, a mobile gaming discussion, the PSP2/NGP, a few new games played, new Matrix movies, and a healthy dose of ranting. =) </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=qqNEXzPMOf8" target="_blank">Angra &#8211; Spread Your Fire</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-024-296/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode024_20110127.mp3" length="125324673" type="audio/mpeg" />
+      <itunes:keywords>video games,Alan Wake,Aquaria,The Matrix,PSP,PSP2,NGP</itunes:keywords>
+      <itunes:subtitle>On this episode of As Order of Týr Turns - a small studio update, a mobile gaming discussion, the PSP2/NGP, a few new games played, new Matrix movies, and a healthy dose of ranting. =)  - Music: Angra - Spread Your Fire</itunes:subtitle>
+      <itunes:summary>On this episode of As Order of Týr Turns - a small studio update, a mobile gaming discussion, the PSP2/NGP, a few new games played, new Matrix movies, and a healthy dose of ranting. =) 
+
+
+
+        Music: Angra - Spread Your Fire</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:16</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #023 &#8211; The Extemporaneous Podcast</title>
+      <link>http://videogamemetal.com/podcast-023-291</link>
+      <comments>http://videogamemetal.com/podcast-023-291#comments</comments>
+      <pubDate>Mon, 24 Jan 2011 19:29:48 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=291</guid>
+      <description><![CDATA[In this episode, we go off the cuff and talk about the progress with mixing Flames of Destiny, What We&#8217;re Playing, and other random miscellany. Music: Crush 40 &#8211; Knight of the Wind]]></description>
+      <content:encoded><![CDATA[<p>In this episode, we go off the cuff and talk about the progress with mixing Flames of Destiny, What We&#8217;re Playing, and other random miscellany. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=UfpUBfF8C3I" target="_blank">Crush 40 &#8211; Knight of the Wind</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-023-291/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode023_20110118.mp3" length="64375225" type="audio/mpeg" />
+      <itunes:keywords>video games,music</itunes:keywords>
+      <itunes:subtitle>In this episode, we go off the cuff and talk about the progress with mixing Flames of Destiny, What We&#039;re Playing, and other random miscellany.  - Music: Crush 40 - Knight of the Wind</itunes:subtitle>
+      <itunes:summary>In this episode, we go off the cuff and talk about the progress with mixing Flames of Destiny, What We&#039;re Playing, and other random miscellany. 
+
+
+
+        Music: Crush 40 - Knight of the Wind</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>33:32</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #022 &#8211; OoT Community and VGMusic NerdRAGE!</title>
+      <link>http://videogamemetal.com/podcast-022-289</link>
+      <comments>http://videogamemetal.com/podcast-022-289#comments</comments>
+      <pubDate>Wed, 12 Jan 2011 06:19:59 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=289</guid>
+      <description><![CDATA[Episode 22 houses the inception of the idea of Order of Týr as a community effort spearheaded by our music but driven by everyone. We also go through What We&#8217;re Playing, and I rage hard (notice the lack of composure) against a Kotaku.com article which demeans video game music and musicians. Music: Another Bound Neo [...]]]></description>
+      <content:encoded><![CDATA[<p>Episode 22 houses the inception of the idea of Order of Týr as a community effort spearheaded by our music but driven by everyone. We also go through What We&#8217;re Playing, and I rage hard (notice the lack of composure) against a Kotaku.com article which demeans video game music and musicians. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=b7PlqurqNtk" target="_blank">Another Bound Neo &#8211; Trample Machine</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-022-289/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode022_20110111.mp3" length="40883142" type="audio/mpeg" />
+      <itunes:keywords>video games,music,Donkey Kong Country Returns,Sonic Colors,CES,3DS,Nintendo</itunes:keywords>
+      <itunes:subtitle>Episode 22 houses the inception of the idea of Order of Týr as a community effort spearheaded by our music but driven by everyone. We also go through What We&#039;re Playing, and I rage hard (notice the lack of composure) against a Kotaku.</itunes:subtitle>
+      <itunes:summary>Episode 22 houses the inception of the idea of Order of Týr as a community effort spearheaded by our music but driven by everyone. We also go through What We&#039;re Playing, and I rage hard (notice the lack of composure) against a Kotaku.com article which demeans video game music and musicians. 
+
+
+
+        Music: Another Bound Neo - Trample Machine</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>42:05</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #021 &#8211; Back from the Holidaze</title>
+      <link>http://videogamemetal.com/podcast-021-back-from-the-holidaze-699</link>
+      <comments>http://videogamemetal.com/podcast-021-back-from-the-holidaze-699#comments</comments>
+      <pubDate>Fri, 07 Jan 2011 16:49:11 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=699</guid>
+      <description><![CDATA[Order of Týr is back with the 2011 version of ourselves which are not much different than the 2010 version! In this episode, we finish up talking about the songs on our upcoming album, Flames of Destiny. We also do another segment of What We&#8217;re Playing. Music: Bang! &#8211; Shooting Star (DJ Hixxy Remix)]]></description>
+      <content:encoded><![CDATA[<p>Order of Týr is back with the 2011 version of ourselves which are not much different than the 2010 version! In this episode, we finish up talking about the songs on our upcoming album, Flames of Destiny. We also do another segment of What We&#8217;re Playing. </p>
+
+        <p>Music: Bang! &#8211; <a href="http://www.youtube.com/watch?v=221c0x6R2rw" target="_blank">Shooting Star (DJ Hixxy Remix)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-021-back-from-the-holidaze-699/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2011/Episode021_20110105.mp3" length="71819914" type="audio/mpeg" />
+      <itunes:keywords>Video Games,Uncharted,Resident Evil,Game Dev Story</itunes:keywords>
+      <itunes:subtitle>Order of Týr is back with the 2011 version of ourselves which are not much different than the 2010 version! In this episode, we finish up talking about the songs on our upcoming album, Flames of Destiny. We also do another segment of What We&#039;re Playing.</itunes:subtitle>
+      <itunes:summary>Order of Týr is back with the 2011 version of ourselves which are not much different than the 2010 version! In this episode, we finish up talking about the songs on our upcoming album, Flames of Destiny. We also do another segment of What We&#039;re Playing. 
+
+
+
+        Music: Bang! - Shooting Star (DJ Hixxy Remix)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>37:24</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #020 &#8211; Games of the Year 2010</title>
+      <link>http://videogamemetal.com/podcast-020-284</link>
+      <comments>http://videogamemetal.com/podcast-020-284#comments</comments>
+      <pubDate>Mon, 03 Jan 2011 19:18:43 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=284</guid>
+      <description><![CDATA[In this, our final podcast of 2010, we discuss the games we played this year including the best and worst parts of them. At the end, we order our top picks from the games discussed. Music: Bayonetta &#8211; After Burner (Climax Mix)]]></description>
+      <content:encoded><![CDATA[<p>In this, our final podcast of 2010, we discuss the games we played this year including the best and worst parts of them. At the end, we order our top picks from the games discussed. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=Rb-xNUPFq2s" target="_blank">Bayonetta &#8211; After Burner (Climax Mix)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-020-284/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode020_20101228.mp3" length="206607572" type="audio/mpeg" />
+      <itunes:keywords>2010,game of the year,goty,video games</itunes:keywords>
+      <itunes:subtitle>In this, our final podcast of 2010, we discuss the games we played this year including the best and worst parts of them. At the end, we order our top picks from the games discussed.  - Music: Bayonetta - After Burner (Climax Mix)</itunes:subtitle>
+      <itunes:summary>In this, our final podcast of 2010, we discuss the games we played this year including the best and worst parts of them. At the end, we order our top picks from the games discussed. 
+
+
+
+        Music: Bayonetta - After Burner (Climax Mix)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:47:36</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #019 &#8211; The Minecraft Episode</title>
+      <link>http://videogamemetal.com/podcast-019-276</link>
+      <comments>http://videogamemetal.com/podcast-019-276#comments</comments>
+      <pubDate>Fri, 17 Dec 2010 04:29:56 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=276</guid>
+      <description><![CDATA[In addition to Minecraft, we talk about the leaked 5-year timeline for Blizzard, review an incredibly awesome power metal album, and talk about the insane stuff people are already doing with the Kinect. Music: Mighty Morphin Power Rangers The Movie Theme]]></description>
+      <content:encoded><![CDATA[<p>In addition to Minecraft, we talk about the leaked 5-year timeline for Blizzard, review an incredibly awesome power metal album, and talk about the insane stuff people are already doing with the Kinect. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=A7xstjQ9RnM" target="_blank">Mighty Morphin Power Rangers The Movie Theme</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-019-276/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode019_20101214.mp3" length="106686905" type="audio/mpeg" />
+      <itunes:keywords>Minecraft,Blizzard,WoW,World of Warcraft,Titan,Celesty,Kinect</itunes:keywords>
+      <itunes:subtitle>In addition to Minecraft, we talk about the leaked 5-year timeline for Blizzard, review an incredibly awesome power metal album, and talk about the insane stuff people are already doing with the Kinect.  - </itunes:subtitle>
+      <itunes:summary>In addition to Minecraft, we talk about the leaked 5-year timeline for Blizzard, review an incredibly awesome power metal album, and talk about the insane stuff people are already doing with the Kinect. 
+
+
+
+        Music: Mighty Morphin Power Rangers The Movie Theme</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>55:34</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #018 &#8211; Studio News!, WWP, Music Reviews, OnLive</title>
+      <link>http://videogamemetal.com/podcast-018-270</link>
+      <comments>http://videogamemetal.com/podcast-018-270#comments</comments>
+      <pubDate>Thu, 09 Dec 2010 17:58:41 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=270</guid>
+      <description><![CDATA[The News items are from our studio, DKCR, Uncharted Movie, Halo Franchise, and our future music plans. We update our playing list, review a couple of music album, and talk about OnLive and its new PlayPack subscription. Music: Machinae Supremacy &#8211; Theme from Jets&#8217;n'Guns]]></description>
+      <content:encoded><![CDATA[<p>The News items are from our studio, DKCR, Uncharted Movie, Halo Franchise, and our future music plans. We update our playing list, review a couple of music album, and talk about OnLive and its new PlayPack subscription. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=K_lUrFXGdeY" target="_blank">Machinae Supremacy &#8211; Theme from Jets&#8217;n'Guns</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-018-270/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode018_20101207.mp3" length="101629599" type="audio/mpeg" />
+      <itunes:keywords>Donkey Kong Country Returns,Uncharted,Halo,Video Games,World of Warcraft,Machinae Supremacy,Nocturnal Rites,OnLive</itunes:keywords>
+      <itunes:subtitle>The News items are from our studio, DKCR, Uncharted Movie, Halo Franchise, and our future music plans. We update our playing list, review a couple of music album, and talk about OnLive and its new PlayPack subscription.  - </itunes:subtitle>
+      <itunes:summary>The News items are from our studio, DKCR, Uncharted Movie, Halo Franchise, and our future music plans. We update our playing list, review a couple of music album, and talk about OnLive and its new PlayPack subscription. 
+
+
+
+        Music: Machinae Supremacy - Theme from Jets&#039;n&#039;Guns</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:56</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #017 &#8211; FoD Info, WWPVI, Kinect &#8220;Hands&#8221;-On</title>
+      <link>http://videogamemetal.com/podcast-017-267</link>
+      <comments>http://videogamemetal.com/podcast-017-267#comments</comments>
+      <pubDate>Wed, 01 Dec 2010 17:49:21 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=267</guid>
+      <description><![CDATA[We reveal info about 2 more songs on the upcoming album, Flames of Destiny. We also go on nearly 1 million tangents, presenting our stream of consciousness style. =) Music: Armcannon &#8211; I&#8217;m a Real Sexy American Boy]]></description>
+      <content:encoded><![CDATA[<p>We reveal info about 2 more songs on the upcoming album, Flames of Destiny. We also go on nearly 1 million tangents, presenting our stream of consciousness style. =) </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=CoouWV0nFrg" target="_blank">Armcannon &#8211; I&#8217;m a Real Sexy American Boy</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-017-267/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode017_20101130.mp3" length="86004613" type="audio/mpeg" />
+      <itunes:keywords>Flames of Destiny,Final Fantasy VII,Fallout 3,World of Warcraft,WoW Kinect,Dance Central,Uncharted Movie</itunes:keywords>
+      <itunes:subtitle>We reveal info about 2 more songs on the upcoming album, Flames of Destiny. We also go on nearly 1 million tangents, presenting our stream of consciousness style. =)  - Music: Armcannon - I&#039;m a Real Sexy American Boy</itunes:subtitle>
+      <itunes:summary>We reveal info about 2 more songs on the upcoming album, Flames of Destiny. We also go on nearly 1 million tangents, presenting our stream of consciousness style. =) 
+
+
+
+        Music: Armcannon - I&#039;m a Real Sexy American Boy</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>44:48</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #016 &#8211; WoW Trolled, Music Reviews, New Games</title>
+      <link>http://videogamemetal.com/podcast-016-263</link>
+      <comments>http://videogamemetal.com/podcast-016-263#comments</comments>
+      <pubDate>Tue, 30 Nov 2010 17:10:06 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=263</guid>
+      <description><![CDATA[In this riveting tale, we complain about non-standard memory card formats and friends usurping our World of Warcraft sobriety, review Therion&#8217;s new album Sitra Ahra and the OST from Star Ocean: The Second Story/Second Evolution, and talk about several news games on the block. (NOTE: This isn&#8217;t the exact track, but you get the idea [...]]]></description>
+      <content:encoded><![CDATA[<p>In this riveting tale, we complain about non-standard memory card formats and friends usurping our World of Warcraft sobriety, review Therion&#8217;s new album Sitra Ahra and the OST from Star Ocean: The Second Story/Second Evolution, and talk about several news games on the block. </p>
+
+        <p>(NOTE: This isn&#8217;t the exact track, but you get the idea =)<br />
+          MUSIC: <a href="http://www.youtube.com/watch?v=cs4oHnYHO8w" target="_blank">Gears of War &#8211; Train Wreck (Locust Theme)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-016-263/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode016_20101123.mp3" length="67147131" type="audio/mpeg" />
+      <itunes:keywords>Memory Stick Pro Duo,Therion,Sitra Ahra,Star Ocean,Donkey Kong Returns,Splatterhouse,Majin and the Forsaken Kingdom,Gran Turismo 5,Word of Warcraft,WoW</itunes:keywords>
+      <itunes:subtitle>In this riveting tale, we complain about non-standard memory card formats and friends usurping our World of Warcraft sobriety, review Therion&#039;s new album Sitra Ahra and the OST from Star Ocean: The Second Story/Second Evolution,</itunes:subtitle>
+      <itunes:summary>In this riveting tale, we complain about non-standard memory card formats and friends usurping our World of Warcraft sobriety, review Therion&#039;s new album Sitra Ahra and the OST from Star Ocean: The Second Story/Second Evolution, and talk about several news games on the block. 
+
+
+
+        (NOTE: This isn&#039;t the exact track, but you get the idea =)
+        MUSIC: Gears of War - Train Wreck (Locust Theme)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>34:58</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #015 &#8211; Album Infoz, Silent Hill 8/New Movie</title>
+      <link>http://videogamemetal.com/podcast-015-album-infoz-silent-hill-8new-movie-692</link>
+      <comments>http://videogamemetal.com/podcast-015-album-infoz-silent-hill-8new-movie-692#comments</comments>
+      <pubDate>Thu, 18 Nov 2010 15:59:13 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=692</guid>
+      <description><![CDATA[In this episode, we talk a bit more about the new album, Flames of Destiny. We also do What We&#8217;re Playing part IV. I rant about Silent Hill 8, the complete departure of Akira Yamaoaka from the franchise, and the new movie, and we do a quick overview of some news games recently released. Music: [...]]]></description>
+      <content:encoded><![CDATA[<p>In this episode, we talk a bit more about the new album, Flames of Destiny. We also do What We&#8217;re Playing part IV. I rant about Silent Hill 8, the complete departure of Akira Yamaoaka from the franchise, and the new movie, and we do a quick overview of some news games recently released. </p>
+
+        <p>Music: <a href="http://www.youtube.com/watch?v=R_K6971WmAs" target="_blank">Vanilla Ice &#8211; Ninja Rap</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-015-album-infoz-silent-hill-8new-movie-692/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode015_20101116.mp3" length="87183258" type="audio/mpeg" />
+      <itunes:keywords>video games,order of tyr,music,metal,power metal,silent hill,bayonetta</itunes:keywords>
+      <itunes:subtitle>In this episode, we talk a bit more about the new album, Flames of Destiny. We also do What We&#039;re Playing part IV. I rant about Silent Hill 8, the complete departure of Akira Yamaoaka from the franchise, and the new movie,</itunes:subtitle>
+      <itunes:summary>In this episode, we talk a bit more about the new album, Flames of Destiny. We also do What We&#039;re Playing part IV. I rant about Silent Hill 8, the complete departure of Akira Yamaoaka from the franchise, and the new movie, and we do a quick overview of some news games recently released. 
+
+
+
+        Music: Vanilla Ice - Ninja Rap</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>45:24</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #014 &#8211; Silent Hill 2 and Music Nerdery</title>
+      <link>http://videogamemetal.com/podcast-014-220</link>
+      <comments>http://videogamemetal.com/podcast-014-220#comments</comments>
+      <pubDate>Fri, 12 Nov 2010 16:26:56 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=220</guid>
+      <description><![CDATA[WARNING: Listen up for the spoiler alerts in this episode! =) We update you on the recording of Flames of Destiny, talk about a couple songs on the album, nerd out about some crazy music, [spoiler]talk about beating Silent Hill 2 and the various endings[/spoiler], and complain about &#8220;trained&#8221; salespeople and their pushiness (and sometimes [...]]]></description>
+      <content:encoded><![CDATA[<p>WARNING: Listen up for the spoiler alerts in this episode! =) We update you on the recording of Flames of Destiny, talk about a couple songs on the album, nerd out about some crazy music, [spoiler]talk about beating Silent Hill 2 and the various endings[/spoiler], and complain about &#8220;trained&#8221; salespeople and their pushiness (and sometimes out right lying) to get a new or hot product sold. </p>
+
+        <p>MUSIC: <a href="http://www.youtube.com/watch?v=yjT0PCv-cnA" target="_blank">Final Fantasy: Mystic Quest &#8211; Heat of Battle</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-014-220/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode014_20101111.mp3" length="98507444" type="audio/mpeg" />
+      <itunes:keywords>music,silent hill,video games,drum corps,bluecoats,big box stores</itunes:keywords>
+      <itunes:subtitle>WARNING: Listen up for the spoiler alerts in this episode! =) We update you on the recording of Flames of Destiny, talk about a couple songs on the album, nerd out about some crazy music, [spoiler]talk about beating Silent Hill 2 and the various ending...</itunes:subtitle>
+      <itunes:summary>WARNING: Listen up for the spoiler alerts in this episode! =) We update you on the recording of Flames of Destiny, talk about a couple songs on the album, nerd out about some crazy music, [spoiler]talk about beating Silent Hill 2 and the various endings[/spoiler], and complain about &quot;trained&quot; salespeople and their pushiness (and sometimes out right lying) to get a new or hot product sold.
+
+
+
+        MUSIC: Final Fantasy: Mystic Quest - Heat of Battle</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>51:18</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #013 &#8211; Halloween, Kinect Release, &amp; Fan Movies</title>
+      <link>http://videogamemetal.com/podcast-013-halloween-kinect-release-fan-movies-683</link>
+      <comments>http://videogamemetal.com/podcast-013-halloween-kinect-release-fan-movies-683#comments</comments>
+      <pubDate>Tue, 02 Nov 2010 05:00:14 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=683</guid>
+      <description><![CDATA[We discuss studio news as per usual, What We&#8217;re Playing pt.II, how our Halloween went, the Kinect Release, the upcoming PSP Phone, as well as the Mega Man fan movie plus the Sonic fan movie. MUSIC: Sonic the Hedgehog 3 Malicious Fingers OC ReMix [Final Boss]]]></description>
+      <content:encoded><![CDATA[<p>We discuss studio news as per usual, What We&#8217;re Playing pt.II, how our Halloween went, the Kinect Release, the upcoming PSP Phone, as well as the Mega Man fan movie plus the Sonic fan movie. </p>
+
+        <p>MUSIC: <a href="http://www.youtube.com/watch?v=pPJ-XwR3RhQ" target="_blank">Sonic the Hedgehog 3 Malicious Fingers OC ReMix [Final Boss]</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-013-halloween-kinect-release-fan-movies-683/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode013_20101102.mp3" length="79927487" type="audio/mpeg" />
+      <itunes:keywords>music,video games,Mega Man,Sonic the Hedgehog,Sonic,PSP,PSP Phone,Kinect,XBOX 360,Halloween</itunes:keywords>
+      <itunes:subtitle>We discuss studio news as per usual, What We&#039;re Playing pt.II, how our Halloween went, the Kinect Release, the upcoming PSP Phone, as well as the Mega Man fan movie plus the Sonic fan movie.  - MUSIC: Sonic the Hedgehog 3 Malicious Fingers OC ReMi...</itunes:subtitle>
+      <itunes:summary>We discuss studio news as per usual, What We&#039;re Playing pt.II, how our Halloween went, the Kinect Release, the upcoming PSP Phone, as well as the Mega Man fan movie plus the Sonic fan movie. 
+
+
+
+        MUSIC: Sonic the Hedgehog 3 Malicious Fingers OC ReMix [Final Boss]</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>41:38</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #012 &#8211; Album Name Reveal, BttF, WWP Debut</title>
+      <link>http://videogamemetal.com/podcast-012-album-name-reveal-bttf-wwp-debut-681</link>
+      <comments>http://videogamemetal.com/podcast-012-album-name-reveal-bttf-wwp-debut-681#comments</comments>
+      <pubDate>Wed, 27 Oct 2010 05:00:32 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=681</guid>
+      <description><![CDATA[In this edition of The Order of Týr Podcast, we drop the name of the new album, talk about the 25th anniversary of Back to the Future, and discuss the games that we are currently playing. MUSIC: Huey Lewis &#038; the News &#8211; The Power of Love]]></description>
+      <content:encoded><![CDATA[<p>In this edition of The Order of Týr Podcast, we drop the name of the new album, talk about the 25th anniversary of Back to the Future, and discuss the games that we are currently playing. </p>
+
+        <p>MUSIC:  <a href="http://www.youtube.com/watch?v=wFaXTcR4dtE" target="_blank">Huey Lewis &#038; the News &#8211; The Power of Love</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-012-album-name-reveal-bttf-wwp-debut-681/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode012_20101026.mp3" length="66965736" type="audio/mpeg" />
+      <itunes:keywords>video games,Back to the Future,music</itunes:keywords>
+      <itunes:subtitle>In this edition of The Order of Týr Podcast, we drop the name of the new album, talk about the 25th anniversary of Back to the Future, and discuss the games that we are currently playing.  - MUSIC:  Huey Lewis &amp; the News - The Power of Love</itunes:subtitle>
+      <itunes:summary>In this edition of The Order of Týr Podcast, we drop the name of the new album, talk about the 25th anniversary of Back to the Future, and discuss the games that we are currently playing.
+
+
+
+        MUSIC:  Huey Lewis &amp; the News - The Power of Love</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>34:53</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #011 &#8211; Sony, Sonic 4, Hardware Mods</title>
+      <link>http://videogamemetal.com/oot-podcast-011-sony-commentary-sonic-4-hardware-mods-657</link>
+      <comments>http://videogamemetal.com/oot-podcast-011-sony-commentary-sonic-4-hardware-mods-657#comments</comments>
+      <pubDate>Sat, 23 Oct 2010 05:00:55 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=657</guid>
+      <description><![CDATA[We discuss the PS3 and some of its games, Sonic 4, and Mike talks about his recent Xbox 360 controller mods. MUSIC: Mega Man 2 &#8211; Dr. Wily Stage 1 (Techno Version)]]></description>
+      <content:encoded><![CDATA[<p>We discuss the PS3 and some of its games, Sonic 4, and Mike talks about his recent Xbox 360 controller mods. </p>
+
+        <p>MUSIC: <a href="http://www.youtube.com/watch?v=jN9N5tg8fQk" target="_blank">Mega Man 2 &#8211; Dr. Wily Stage 1 (Techno Version)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/oot-podcast-011-sony-commentary-sonic-4-hardware-mods-657/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode011_20101022.mp3" length="58923366" type="audio/mpeg" />
+      <itunes:keywords>video games,Sonic the Hedgehog 4,Sonic 4,PS2,PS3,Playstation</itunes:keywords>
+      <itunes:subtitle>We discuss the PS3 and some of its games, Sonic 4, and Mike talks about his recent Xbox 360 controller mods.  - MUSIC: Mega Man 2 - Dr. Wily Stage 1 (Techno Version)</itunes:subtitle>
+      <itunes:summary>We discuss the PS3 and some of its games, Sonic 4, and Mike talks about his recent Xbox 360 controller mods.
+
+
+
+        MUSIC: Mega Man 2 - Dr. Wily Stage 1 (Techno Version)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>30:41</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #010 &#8211; Free MMOs, VG Interests, and Opera?!</title>
+      <link>http://videogamemetal.com/podcast-010-2-654</link>
+      <comments>http://videogamemetal.com/podcast-010-2-654#comments</comments>
+      <pubDate>Thu, 14 Oct 2010 05:00:32 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://www.orderoftyr.com/?p=654</guid>
+      <description><![CDATA[In this episode, we discuss many a game including some MMOs which have recent opened up a free platform. We also talk about what we like (and dislike) in games, and we whip out the music nerds within and speak a little about opera. (NOTE: This game is called Atelier Iris 2: The Azoth of [...]]]></description>
+      <content:encoded><![CDATA[<p>In this episode, we discuss many a game including some MMOs which have recent opened up a free platform. We also talk about what we like (and dislike) in games, and we whip out the music nerds within and speak a little about opera. </p>
+
+        <p>(NOTE: This game is called Atelier Iris 2: The Azoth of Destiny outside of Japan)<br />
+          MUSIC:  <a href="http://www.youtube.com/watch?v=7gNWXEzV91M" target="_blank">Atelier Iris: Eternal Mana 2 &#8211; Slasher Blue (from Red Lucifer Rising &#8211; the arranged track album)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-010-2-654/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode010_20101012.mp3" length="56846997" type="audio/mpeg" />
+      <itunes:keywords>video games,MMO,MMORPG,opera,music</itunes:keywords>
+      <itunes:subtitle>In this episode, we discuss many a game including some MMOs which have recent opened up a free platform. We also talk about what we like (and dislike) in games, and we whip out the music nerds within and speak a little about opera.  - </itunes:subtitle>
+      <itunes:summary>In this episode, we discuss many a game including some MMOs which have recent opened up a free platform. We also talk about what we like (and dislike) in games, and we whip out the music nerds within and speak a little about opera. 
+
+
+
+        (NOTE: This game is called Atelier Iris 2: The Azoth of Destiny outside of Japan)
+        MUSIC:  Atelier Iris: Eternal Mana 2 - Slasher Blue (from Red Lucifer Rising - the arranged track album)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>39:16</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #009 &#8211; Move/Kinect and Duke Nukem Forever</title>
+      <link>http://videogamemetal.com/podcast-009-2-172</link>
+      <comments>http://videogamemetal.com/podcast-009-2-172#comments</comments>
+      <pubDate>Wed, 06 Oct 2010 22:13:58 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=172</guid>
+      <description><![CDATA[We make excuses about being in the studio, talk about some games we&#8217;ve been playing lately, moan and groan about the Move and Kinect, Guile&#8217;s Theme plays for way too long, and rejoice in the recent glorious announcement regarding Duke Nukem Forever. MUSIC: Footprintz &#8211; Angels (Sy &#038; Unknown Remix)]]></description>
+      <content:encoded><![CDATA[<p>We make excuses about being in the studio, talk about some games we&#8217;ve been playing lately, moan and groan about the Move and Kinect, Guile&#8217;s Theme plays for way too long, and rejoice in the recent glorious announcement regarding Duke Nukem Forever. </p>
+
+        <p>MUSIC: <a href="http://www.youtube.com/watch?v=_GqMorglLik" target="_blank">Footprintz &#8211; Angels (Sy &#038; Unknown Remix)</a></p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-009-2-172/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode009_20101006.mp3" length="13211776" type="audio/mpeg" />
+      <itunes:keywords>studio,move,kinect,Duke Nukem Forever,The Impossible Game,World of Warcraft</itunes:keywords>
+      <itunes:subtitle>We make excuses about being in the studio, talk about some games we&#039;ve been playing lately, moan and groan about the Move and Kinect, Guile&#039;s Theme plays for way too long, and rejoice in the recent glorious announcement regarding Duke Nukem Forever.  - </itunes:subtitle>
+      <itunes:summary>We make excuses about being in the studio, talk about some games we&#039;ve been playing lately, moan and groan about the Move and Kinect, Guile&#039;s Theme plays for way too long, and rejoice in the recent glorious announcement regarding Duke Nukem Forever. 
+
+
+
+        MUSIC: Footprintz - Angels (Sy &amp; Unknown Remix)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>27:31</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #008 &#8211; We Discover Destructoid</title>
+      <link>http://videogamemetal.com/podcast-008-140</link>
+      <comments>http://videogamemetal.com/podcast-008-140#comments</comments>
+      <pubDate>Sat, 20 Mar 2010 20:40:05 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=140</guid>
+      <description><![CDATA[We got this podcast done this past Monday, but due to busy schedules, we&#8217;re just now putting it up. Again, I don&#8217;t have my stuff all set up, so there is no intro/outro, but Mike and I do talk quite a bit about games again. =)]]></description>
+      <content:encoded><![CDATA[<p>We got this podcast done this past Monday, but due to busy schedules, we&#8217;re just now putting it up. Again, I don&#8217;t have my stuff all set up, so there is no intro/outro, but Mike and I do talk quite a bit about games again. =)</p>
+
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-008-140/feed</wfw:commentRss>
+      <slash:comments>1</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode008_20100320.mp3" length="10387584" type="audio/mpeg" />
+      <itunes:keywords>video games</itunes:keywords>
+      <itunes:subtitle>We got this podcast done this past Monday, but due to busy schedules, we&#039;re just now putting it up. Again, I don&#039;t have my stuff all set up, so there is no intro/outro, but Mike and I do talk quite a bit about games again. =)</itunes:subtitle>
+      <itunes:summary>We got this podcast done this past Monday, but due to busy schedules, we&#039;re just now putting it up. Again, I don&#039;t have my stuff all set up, so there is no intro/outro, but Mike and I do talk quite a bit about games again. =)</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>21:38</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #007 &#8211; Genesis of the VG Podcast Era</title>
+      <link>http://videogamemetal.com/podcast-007-135</link>
+      <comments>http://videogamemetal.com/podcast-007-135#comments</comments>
+      <pubDate>Sat, 13 Mar 2010 23:39:09 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=135</guid>
+      <description><![CDATA[This week Donna’s sick, I beat BioShock, Mike’s in a new apartment, and we nerd out about video games.]]></description>
+      <content:encoded><![CDATA[<p>This week Donna’s sick, I beat BioShock, Mike’s in a new apartment, and we nerd out about video games.</p>
+
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-007-135/feed</wfw:commentRss>
+      <slash:comments>1</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode007_20100313.mp3" length="17111168" type="audio/mpeg" />
+      <itunes:keywords>BioShock,video games</itunes:keywords>
+      <itunes:subtitle>This week Donna’s sick, I beat BioShock, Mike’s in a new apartment, and we nerd out about video games.</itunes:subtitle>
+      <itunes:summary>This week Donna’s sick, I beat BioShock, Mike’s in a new apartment, and we nerd out about video games.</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>35:39</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #006 &#8211; BANJOS!</title>
+      <link>http://videogamemetal.com/podcast-006-125</link>
+      <comments>http://videogamemetal.com/podcast-006-125#comments</comments>
+      <pubDate>Tue, 02 Mar 2010 05:54:18 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=125</guid>
+      <description><![CDATA[A failed phone call to Bryce, more talk about music, BANJOS, and other miscellany are part of what occurs in this podcast. =) The music is The Final Battle Cry from our album, The Wizard&#8217;s War.]]></description>
+      <content:encoded><![CDATA[<p>A failed phone call to Bryce, more talk about music, BANJOS, and other miscellany are part of what occurs in this podcast. =) </p>
+
+        <p>The music is <em>The Final Battle Cry</em> from our album, <a href="http://music.orderoftyr.com/album/the-wizards-war" target="_blank">The Wizard&#8217;s War</a>.</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-006-125/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode006_20100302.mp3" length="8032384" type="audio/mpeg" />
+      <itunes:keywords>Bryce Hipp,banjos</itunes:keywords>
+      <itunes:subtitle>A failed phone call to Bryce, more talk about music, BANJOS, and other miscellany are part of what occurs in this podcast. =)  - The music is The Final Battle Cry from our album, The Wizard&#039;s War.</itunes:subtitle>
+      <itunes:summary>A failed phone call to Bryce, more talk about music, BANJOS, and other miscellany are part of what occurs in this podcast. =)
+
+
+
+        The music is The Final Battle Cry from our album, The Wizard&#039;s War.</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>16:44</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #005 &#8211; Donna Talks Games!, AAA Video Games</title>
+      <link>http://videogamemetal.com/podcast-005-113</link>
+      <comments>http://videogamemetal.com/podcast-005-113#comments</comments>
+      <pubDate>Tue, 23 Feb 2010 06:46:18 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=113</guid>
+      <description><![CDATA[Donna makes a discovery and learns the idea of the modern blockbuster video game. Mike tries to spoil BioShock again, and I talk a lot (..a lot), and for some reason I pronounce Modus Operandi as Modus Apperandi. Enjoy! =D The music is Journey to Gardaena from our album, The Wizard&#8217;s War.]]></description>
+      <content:encoded><![CDATA[<p>Donna makes a discovery and learns the idea of the modern blockbuster video game. Mike tries to spoil BioShock again, and I talk a lot (..a lot), and for some reason I pronounce Modus Operandi as Modus Apperandi. Enjoy! =D </p>
+
+        <p>The music is <em>Journey to Gardaena</em> from our album, <a href="http://music.orderoftyr.com/album/the-wizards-war" target="_blank">The Wizard&#8217;s War</a>.</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-005-113/feed</wfw:commentRss>
+      <slash:comments>3</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode005_20100223.mp3" length="7760000" type="audio/mpeg" />
+      <itunes:keywords>AAA Video Games,spoilers</itunes:keywords>
+      <itunes:subtitle>Donna makes a discovery and learns the idea of the modern blockbuster video game. Mike tries to spoil BioShock again, and I talk a lot (..a lot), and for some reason I pronounce Modus Operandi as Modus Apperandi. Enjoy! =D  - </itunes:subtitle>
+      <itunes:summary>Donna makes a discovery and learns the idea of the modern blockbuster video game. Mike tries to spoil BioShock again, and I talk a lot (..a lot), and for some reason I pronounce Modus Operandi as Modus Apperandi. Enjoy! =D 
+
+
+
+        The music is Journey to Gardaena from our album, The Wizard&#039;s War.</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>16:10</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #004 &#8211; Practice Results, Spoilers</title>
+      <link>http://videogamemetal.com/podcast-004-103</link>
+      <comments>http://videogamemetal.com/podcast-004-103#comments</comments>
+      <pubDate>Sat, 20 Feb 2010 05:52:59 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=103</guid>
+      <description><![CDATA[Donna has Skype working, we talk about random things, and some technical hilarity ensues in this, our fourth podcast. Give it a listen! The music is Quest for the Throne from our album, The Wizard&#8217;s War.]]></description>
+      <content:encoded><![CDATA[<p>Donna has Skype working, we talk about random things, and some technical hilarity ensues in this, our fourth podcast. Give it a listen! </p>
+
+        <p>The music is <em>Quest for the Throne</em> from our album, <a href="http://music.orderoftyr.com/album/the-wizards-war" target="_blank">The Wizard&#8217;s War</a>.</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-004-103/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode004_20100220.mp3" length="7602304" type="audio/mpeg" />
+      <itunes:keywords>Skype,miscellany</itunes:keywords>
+      <itunes:subtitle>Donna has Skype working, we talk about random things, and some technical hilarity ensues in this, our fourth podcast. Give it a listen!  - The music is Quest for the Throne from our album, The Wizard&#039;s War.</itunes:subtitle>
+      <itunes:summary>Donna has Skype working, we talk about random things, and some technical hilarity ensues in this, our fourth podcast. Give it a listen!
+
+
+
+        The music is Quest for the Throne from our album, The Wizard&#039;s War.</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>15:50</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #003 &#8211; First Skype Podcast!</title>
+      <link>http://videogamemetal.com/podcast-003-49</link>
+      <comments>http://videogamemetal.com/podcast-003-49#comments</comments>
+      <pubDate>Tue, 09 Feb 2010 05:39:51 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=49</guid>
+      <description><![CDATA[Some bad weather is keeping us from getting together, but it won&#8217;t stop us from doing a podcast! We take to Skype to get this one done, but Donna is absent due to technical difficulties. The music is Knight of Valor from our album, The Wizard&#8217;s War.]]></description>
+      <content:encoded><![CDATA[<p>Some bad weather is keeping us from getting together, but it won&#8217;t stop us from doing a podcast! We take to Skype to get this one done, but Donna is absent due to technical difficulties. </p>
+
+        <p>The music is <em>Knight of Valor</em> from our album, <a href="http://music.orderoftyr.com/album/the-wizards-war" target="_blank">The Wizard&#8217;s War</a>.</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/podcast-003-49/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode003_20100209.mp3" length="7762048" type="audio/mpeg" />
+      <itunes:keywords>bad,weather</itunes:keywords>
+      <itunes:subtitle>Some bad weather is keeping us from getting together, but it won&#039;t stop us from doing a podcast! We take to Skype to get this one done, but Donna is absent due to technical difficulties.  - The music is Knight of Valor from our album,</itunes:subtitle>
+      <itunes:summary>Some bad weather is keeping us from getting together, but it won&#039;t stop us from doing a podcast! We take to Skype to get this one done, but Donna is absent due to technical difficulties.
+
+
+
+        The music is Knight of Valor from our album, The Wizard&#039;s War.</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>16:10</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #002 &#8211; OoT History, Future, and Podcast Plans</title>
+      <link>http://videogamemetal.com/new-podcast-2-36</link>
+      <comments>http://videogamemetal.com/new-podcast-2-36#comments</comments>
+      <pubDate>Fri, 05 Feb 2010 05:43:11 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=36</guid>
+      <description><![CDATA[Here&#8217;s our second podcast, complete with intro AND outro music. =) The music is The Final Battle Cry from our album, The Wizard&#8217;s War.]]></description>
+      <content:encoded><![CDATA[<p>Here&#8217;s our second podcast, complete with intro AND outro music. =) </p>
+
+        <p>The music is <a href="http://music.orderoftyr.com/track/the-final-battle-cry" target="_blank">The Final Battle Cry</a> from our album, <a href="http://music.orderoftyr.com/album/the-wizards-war" target="_blank">The Wizard&#8217;s War</a>.</p>
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/new-podcast-2-36/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode002_20100205.mp3" length="9199744" type="audio/mpeg" />
+      <itunes:keywords>history,future</itunes:keywords>
+      <itunes:subtitle>Here&#039;s our second podcast, complete with intro AND outro music. =)  - The music is The Final Battle Cry from our album, The Wizard&#039;s War.</itunes:subtitle>
+      <itunes:summary>Here&#039;s our second podcast, complete with intro AND outro music. =)
+
+
+
+        The music is The Final Battle Cry from our album, The Wizard&#039;s War.</itunes:summary>
+      <itunes:author>Order of Týr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>19:10</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast #001 &#8211; First Podcast!</title>
+      <link>http://videogamemetal.com/first-podcast-2-33</link>
+      <comments>http://videogamemetal.com/first-podcast-2-33#comments</comments>
+      <pubDate>Tue, 26 Jan 2010 05:41:56 +0000</pubDate>
+      <dc:creator>Jordan</dc:creator>
+      <category><![CDATA[Podcast]]></category>
+
+      <guid isPermaLink="false">http://orderoftyr.com/blog/?p=33</guid>
+      <description><![CDATA[All right, so we did our first podcast tonight, and here it is! Hope you enjoy!]]></description>
+      <content:encoded><![CDATA[<p>All right, so we did our first podcast tonight, and here it is! Hope you enjoy!</p>
+
+        ]]></content:encoded>
+      <wfw:commentRss>http://videogamemetal.com/first-podcast-2-33/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://s3.amazonaws.com/ootPodcasts/2010/Episode001_20100126.mp3" length="3862656" type="audio/mpeg" />
+      <itunes:keywords>first podcast</itunes:keywords>
+      <itunes:subtitle>All right, so we did our first podcast tonight, and here it is! Hope you enjoy!</itunes:subtitle>
+      <itunes:summary>All right, so we did our first podcast tonight, and here it is! Hope you enjoy!</itunes:summary>
+      <itunes:author>Order of Tyr</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>8:03</itunes:duration>
+    </item>
+  </channel>
+</rss>
